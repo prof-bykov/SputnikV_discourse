@@ -2,7 +2,6 @@
 Запрос: Sputnik V
 Всего документов: 113
 
-
 #1
 Источник: Washington Post
 Дата: 11.08.2020
@@ -10,7 +9,6 @@
 By David Ignatius
 Columnist 
 August 11, 2020
-
 
 We speak often of the return of the Cold War mentality. Rarely is it demonstrated as clearly as in President Vladimir Putin’s announcement Tuesday that Russia’s coronavirus vaccine will be called Sputnik V, evoking the 1957 Soviet satellite that kicked off the space race.
  “I think they view it as some kind of a propaganda coup,” said Sen. Angus King (I-Maine), noting that Russia apparently plans to dispense the vaccine this month before completing the usual safety trials. King, who sits on the Senate Intelligence and Armed Services committees, saw this news as another example of Russia aggressively seeking to expand its influence — at low cost and maximum impact.
@@ -26,13 +24,10 @@ How should the United States deal with Putin? George P. Shultz and William J. Pe
 Rethinking assumptions is often valuable in foreign policy. But in this case, the rethinking should begin with an embittered Kremlin, which seems to relish icons of the Cold War and unwisely keeps taunting the United States. Putin takes pleasure in jabbing his enemies but, over the long run, he is not going to win this fight.
 https://www.washingtonpost.com/opinions/putin-is-reckless-because-we-allow-him-to-be/2020/08/11/2e89b79c-dc17-11ea-b205-ff838e15a9a6_story.html
 
-
 #2
 Источник: Washington Post
 Дата: 11.08.2021
 Заглавие: Russia unveils coronavirus vaccine ‘Sputnik V,’ claiming breakthrough in global race before final testing complete
-
-
 By Isabelle Khurshudyan
  and Carolyn Y. Johnson
 August 11, 2020
@@ -87,13 +82,10 @@ Dmitriev said his personal confidence in Russia’s vaccine was so high that he,
 Johnson reported from Washington. Terrence McCoy in Rio de Janeiro contributed to this report.
 https://www.washingtonpost.com/world/russia-unveils-coronavirus-vaccine-claiming-victory-in-global-race-before-final-testing-is-complete/2020/08/11/792f8a54-d813-11ea-a788-2ce86ce81129_story.html
 
-
 #3
 Источник: Washington Post
 Дата: 11.08.2020
 Заглавие: Putin can have his vaccine. I’ll be waiting for the vetted one.
-
-
 By Kathleen Parker
 Columnist 
 August 11, 2020
@@ -120,8 +112,6 @@ https://www.washingtonpost.com/opinions/creating-a-vaccine-isnt-a-race-mr-putin/
 Источник: Washington Post
 Дата: 11.08.2020
 Заглавие:U.S. coronavirus deaths once again top 1,000 a day, as Florida, Georgia hit records
-
-
 By Brady Dennis
 August 11, 2020
 Coronavirus-related deaths in the United States topped 1,000 again Tuesday after a weekend lag, suggesting that the trend of four-digit single-day death tolls will continue for a fourth week.
@@ -162,13 +152,10 @@ From April to June, employment decreased by 220,000, its steepest drop in over a
 The most recent statistics show the total number of employed workers fell by another 114,000 people in July — even though lockdown restrictions are being lifted and the country is attempting to return to normal by reopening shops and restaurants.
 https://www.washingtonpost.com/politics/us-coronavirus-deaths-once-again-top-1000-a-day-as-florida-georgia-hit-records/2020/08/11/c3748a10-dbfb-11ea-8051-d5f887d73381_story.html
 
-
 #5
 Источник: Washington Post
 Дата: 12.08.2020
 Заглавие: No one wins a vaccine race if public confidence is lost
-
-
 By Editorial Board
 August 12, 2020
 RUSSIAN PRESIDENT Vladimir Putin may have pulled off a good public relations stunt on Tuesday, at least for the short term. He announced that the Gamaleya Research Institute of Epidemiology and Microbiology is first in the world to win approval for a coronavirus vaccine. The announcement of the new Sputnik V vaccine recalled the glory of the Soviet Union’s pioneering orbital satellite. Let’s hope it works, but given the unknowns, Mr. Putin’s showy launch and promise of rapid distribution are reason for worry.
@@ -181,13 +168,10 @@ The Trump administration’s crash vaccine effort — Operation Warp Speed — g
 To have any hope of beating the pandemic, vaccine development must retain public confidence. A slip-up that creates even a ripple of doubt could have catastrophic consequences.
 https://www.washingtonpost.com/opinions/global-opinions/no-one-wins-a-vaccine-race-if-public-confidence-is-lost/2020/08/12/67420504-dcc5-11ea-809e-b8be57ba616e_story.html
 
-
 #6
 Источник: Washington Post
 Дата: 24.08.2020
 Заглавие: China says it began public use of coronavirus vaccine a month ago, bypassing clinical trials
-
-
 By Eva Dou
 August 24, 2020
 China is claiming the dubious honor of the first nation to roll out an experimental coronavirus vaccine for public use, saying it began inoculating high-risk groups in late July.
@@ -206,13 +190,10 @@ One point that remains unexplained is why China chose to delay its announcement 
 On Saturday, Chinese health officials said few people who were given the experimental vaccine so far had reported adverse effects, and none reported fevers. They did not give a number of how many have received the trial vaccines.
 https://www.washingtonpost.com/world/asia_pacific/china-coronavirus-vaccine-bypass-clinical-trials/2020/08/24/1813779a-e5be-11ea-bf44-0d31c85838a5_story.html
 
-
 #7
 Источник: Washington Post
 Дата: 03.09.2020
 Заглавие: Why vaccine nationalism is winning
-
-
 By Adam Taylor
 Reporter 
 September 3, 2020
@@ -239,13 +220,10 @@ But the United States and others still rejected the plan, essentially betting on
 “If you have massive outbreaks of virus circulating, adapting to humans, mutating, and then spreading, you’re never going to solve this,” he said.
 https://www.washingtonpost.com/world/2020/09/03/why-coronavirus-vaccine-nationalism-is-winning/
 
-
 #8
 Источник: Washington Post
 Дата: 04.09.2020
 Заглавие: Trump’s rush for a covid vaccine could make it less likely to work
-
-
 By Jennifer Reich
 and Seth Masket
 September 4, 2020
@@ -267,18 +245,14 @@ In the end, a safe and effective vaccine against this virus may be developed and
 When Russia announced that it had a vaccine ready, it named the project Sputnik V, after the satellite the Soviet Union launched in 1957, kicking off the space race. In 1961, President John F. Kennedy announced an ambitious plan to send a man to the moon, inspired by the pressure he felt to catch up. He appeared in front of Congress to request investment in space but acknowledged that there were no quick wins in science, noting that the enterprise would “last for many years and carry very heavy costs,” and making clear that “it would be better not to go at all” if the United States was not “prepared to do the work and bear the burdens to make it successful.” The international race for a vaccine is no different. A vaccine will succeed only if Americans across the political spectrum trust that it is the result of careful and cautious scientific work. And that will probably not be completed until long after the November election. 
  https://www.washingtonpost.com/outlook/trump-covid-vaccine-science/2020/09/04/5c22d02a-ee33-11ea-ab4e-581edb849379_story.html
 
-
 #9
 Источник: Washington Post
 Дата: 10.09.2020
 Заглавие: The AstraZeneca vaccine trial was paused to investigate an unexplained case of spinal inflammation. 
-
-
 The major trial “is on hold as an independent committee investigates whether a case of spinal inflammation in a single British participant is linked to the vaccine — a step that several experts said is a sign of the protections in place to ensure the safety of products ultimately used in millions of healthy people,” Carolyn Johnson reports. National Institutes of Health Director Francis Collins and other scientists “pointed to AstraZeneca’s decision as evidence that scientists, rather than politicians, are running the process. The experts said that it was hard to estimate how long the investigation would take, but that the pause was not unexpected in trials of this size and scale."
 A group of scientists questioned whether the early-stage trials for the Russian vaccine known as “Sputnik V” can be considered reliable due to “highly unlikely” patterns presented in the results. Last week, the medical journal Lancet said the vaccine produced an antibody response and no serious side effects in more than 70 participants during early trials. But a collective of 26 scientists pointed out that multiple test subjects were reporting identical antibody tests. (Teo Armus)
 More than 70 professors at Stanford University’s medical school pushed back on what they say are “falsehoods and misrepresentations of science” pushed by their former colleague, Scott Atlas, who has emerged as one of Trump’s top medical advisers. Atlas, a neuroradiologist by training, has reportedly advocated for a controversial “herd immunity” strategy. The approach, which has already begun to take root in the Trump administration's testing strategy, would result in “a significant increase in preventable cases, suffering and deaths, especially among vulnerable populations,” the Stanford doctors warn in a letter. (Armus) 
 https://www.washingtonpost.com/politics/2020/09/10/daily-202-unlike-2016-trumps-supreme-court-shortlist-could-galvanize-left-more-than-right/
-
 
 # 10
 Источник: Washington Post
@@ -287,8 +261,6 @@ https://www.washingtonpost.com/politics/2020/09/10/daily-202-unlike-2016-trumps-
 By Eva Dou
 and 
 Isabelle Khurshudyan
-
-
 September 18, 2020
 SEOUL — China and Russia have begun a mass rollout of their coronavirus vaccines before clinical tests are complete, in what is emerging as an unexpectedly complex geopolitical challenge for the United States.
 China's Sinopharm announced this week that it would provide emergency doses of one of its two trial vaccines to the United Arab Emirates, prioritizing the U.S. ally over the vast majority of Chinese. China is now the sole supplier of coronavirus vaccine to the Middle East.
@@ -331,13 +303,10 @@ Leigh Turner, an associate professor at the University of Minnesota’s Center f
 “When you have reports, for example, that members of the military are being administered something, to me that can raise questions of: Are these individuals really able to refuse?” he said.
 https://www.washingtonpost.com/world/asia_pacific/china-and-russia-are-ahead-in-the-global-coronavirus-vaccine-race-bending-long-standing-rules-as-they-go/2020/09/18/9bfd4438-e2d4-11ea-82d8-5e55d47e90ca_story.html
 
-
 #11
 Источник: Washington Post
 Дата: 04.10.2020
 Заглавие: In race for coronavirus vaccine, Russia ramps up rhetoric to defend Sputnik V
-
-
 By Isabelle Khurshudyan
 October 4, 2020
 MOSCOW — Included in Russian President Vladimir Putin's speech at the United Nations last month was an offer: All U.N. staff could receive Russia's Sputnik V coronavirus vaccine, free of charge.
@@ -383,13 +352,10 @@ Semyon Galperin, head of the Doctors’ Defense League rights group, opted for a
 “My volunteering is to hopefully prevent a situation where there is some pressure on our [medical] colleagues to get vaccinated,” Galperin said. “Before the clinical trials are complete, we shouldn’t tell anyone to get vaccinated or not.”
 https://www.washingtonpost.com/world/europe/coronavirus-vaccine-russia-sputnik/2020/10/03/83075a10-f380-11ea-8025-5d3489768ac8_story.html
 
-
 #12
 Источник: Washington Post
 Дата: 14.10.2020
 Заглавие: Night on the town, Moscow style: Few masks, but lots of worry about another lockdown
-
-
 By Isabelle Khurshudyan
 October 14, 2020
 At the Mendeleev Bar, the bouncers took our temperatures and then handed us face masks. We wore them as we entered. But inside, everyone except for the staff had shed their masks and crammed in for what they feared could be their last big night out.
@@ -421,13 +387,10 @@ In the meantime, business has been good. Evdokimov and others on that Friday nig
 “I basically expected that,” said Khaustev, the bartender at Mendeleev. “I remember the first weekend bars opened, it was packed, and it was just nice to look people in the eye again and see how happy they were to be out of the house. We told them to keep half a meter apart, but they were just happy to be out again.”
 https://www.washingtonpost.com/world/europe/coronavirus-moscow-masks-clubs/2020/10/14/26db88c6-07ce-11eb-8719-0df159d14794_story.html
 
-
 #13
 Источник: Washington Post
 Дата: 11.11.2020
 Заглавие: Who will make coronavirus vaccines for the developing world? India holds the key.
-
-
 By Joanna Slater
 November 11, 2020
 NEW DELHI — Adar Poonawalla is an Indian billionaire whose family-owned firm makes more vaccines a year than any other company on Earth. Ask him about the race for a coronavirus vaccine and he will offer some unvarnished opinions.
@@ -458,13 +421,10 @@ Poonawalla said the company has pledged to keep half of the vaccines it makes fo
 He is optimistic that in 2021, a new coronavirus vaccine will be licensed for public use every couple of months. “That’s the good news,” Poonawalla said. The less-good news is that it remains unclear which vaccine, if any, will offer long-term protection from the virus. “Nobody wants a vaccine that is only going to protect you for a few months,” he said.
 https://www.washingtonpost.com/world/asia_pacific/coronavirus-vaccine-india-serum-institute/2020/11/10/bbd7509c-0fb0-11eb-bfcf-b1893e2c51b4_story.html
 
-
 #14
 Источник: Washington Post
 Дата: 21.11.2020
 Заглавие: Coronavirus vaccines are coming. Who should get them first?
-
-
 By William Booth Eva Dou, 
 Robyn Dixonand Luisa Beck
 November 21, 2020
@@ -533,7 +493,6 @@ Yet another approach would be to go random. In the 2011 film “Contagion,” th
 It is not a far-fetched idea. Randomization, or a weighted lottery, has been used to distribute scarce, lifesaving drugs in the past — most recently the allocation of remdesivir to treat severely ill covid-19 patients.
 https://www.washingtonpost.com/world/europe/covid-vaccine-distribution/2020/11/21/915c3d52-29cb-11eb-9c21-3cc501d0981f_story.html
 
-
 #15
 Источник: Washington Post
 Дата: 24.11.2020
@@ -560,13 +519,10 @@ He told the G-20 virtual summit Saturday that vaccines must be made universally 
 “Products for immunization need to be common public assets,” Putin told the summit. “Russia, of course, is ready to provide needy countries with vaccines developed by our scientists.”
 https://www.washingtonpost.com/world/vaccine-russia-china-influence/2020/11/23/b93daaca-25e5-11eb-9c4a-0dc6242c4814_story.html
 
-
 #16
 Источник: Washington Post
 Дата: 26.11.2021
 Заглавие: Russia’s vaccine volunteers swap stories — and antibody readings — as amateur researchers
-
-
 Max Popov, a participant in Russia’s Sputnik V vaccine trial. Popov, a Canadian citizen, and his Russian wife, Natalia Khristyukova, both volunteered for the trial in Moscow and have joined a Telegram online group trading stories and health data. (Courtesy of Max Popov)
 By Robyn Dixon
 November 26, 2020
@@ -580,8 +536,6 @@ A few are experts, with a background in biochemistry or data research, but most 
 Russia’s government has not commented publicly on the Web salon. But the chatter should seem familiar. Like Russian officials, almost all of posts in the Telegram group believe Sputnik V is effective.
 Russia and China use vaccines to expand influence. U.S. is on the sidelines.
 “The satellite, d---, flies and beeps!” posted Dmitry Kulish, convinced of the power of the vaccine named after Russia’s first Cold War satellite.
-
-
 Kulish, a biochemist and professor at the Center for Entrepreneurship and Innovation at the Skolkovo Institute of Science and Technology, a private research institute in Moscow, took part in the trial because it was the only way to get the vaccine.
 “Long story short: I got two shots and two days ago I got my antibody level and it’s really high so I am so happy about it,” he said in an interview.
 According to Russian investigative website Proekt, members of Russia’s elite, including tycoons and officials, were lining up to be secretly given Sputnik V shots even before it was registered in August. Russian officials have denied that elite Russians got early insider access.
@@ -619,21 +573,12 @@ Max Popov, a Canadian citizen in the Telegram vaccine community and a related Fa
 “Based on that, I figured that both my wife and I are in the placebo group, unfortunately,” said Popov, who manufactures and installs television equipment in Russia.
 Rusetsky is sure he got the vaccine, not the placebo. He called it “life-changing.”
 “And if those people who did not want to be vaccinated look at me and change their minds and will get a vaccine,” he said, “that would just be great.”
-
-
 https://www.washingtonpost.com/world/europe/russia-coronavirus-vaccine-sputnik/2020/11/25/8ebb62fe-186d-11eb-8bda-814ca56e138b_story.html
-
-
-
-
-
 
 #17
 Источник: Washington Post
 Дата: 02.12.2020
 Заглавие: U.K. authorizes Pfizer coronavirus vaccine as U.S. hospitalizations, daily cases reach record high
-
-
 By William Booth, 
 Karla Adam, 
 Laurie McGinley
@@ -692,26 +637,20 @@ Wei Shen Lim, chair of the Joint Committee on Vaccination and Immunization, said
 British regulators are also reviewing a competing vaccine made by the University of Oxford and the British-Swedish pharmaceutical company AstraZeneca. If approved, the government has made orders for 100 million doses from AstraZeneca. An additional 7 million doses are on preorder from another front-running vaccine candidate made by the U.S. company Moderna.
 https://www.washingtonpost.com/world/europe/britain-pfizer-coronavirus-vaccine/2020/12/02/90f7276e-3470-11eb-9699-00d311f13d2d_story.html
 
-
 #18
 Источник: Washington Post
 Дата: 10.12.2020
 Заглавие: Russia expected a surge for its Sputnik V vaccine. But many skeptics still stayed away.
-
-
 By Robyn Dixon6:48 p.m.
 MOSCOW — The staff at Moscow’s Polyclinic No. 5, syringes at the ready, waited for the expected flood of people as the first phase of mass coronavirus vaccinations rolled out this week. And waited. And waited some more. Rows of empty seats lined the waiting area. Staff members, with little to do, squabbled about where to put a small vase of dried pink flowers.
 With Russia’s coronavirus cases rising sharply, authorities are banking on the country’s Sputnik V vaccine as the answer to the crisis — and opened the vaccine to the public even before it finishes Phase III trials. In the first group, health workers and teachers can start the two-dose treatment.
 But there seemed to be more vaccine skeptics than takers in the first week across Russia, struggling with the fourth-highest number of cases at more than 2.5 million. The reasons tap into both Russia’s history of wariness about authority, and Internet-driven conspiracy theories and pandemic deniers — reflecting similar anti-vaccine rallying cries in the United States, Germany and elsewhere.
 https://www.washingtonpost.com/world/europe/rusisia-vaccine-sputnik-interest/2020/12/10/005917fa-3702-11eb-9699-00d311f13d2d_story.html
 
-
 #19
 Источник: Washington Post
 Дата: 10.12.2020
 Заглавие: Medical research again leaves pregnant women waiting for a vaccine — this time for coronavirus
-
-
 By Miriam Berger
 December 10, 2020
 Around 70 percent of health-care workers worldwide are women, meaning many are on the front lines of the coronavirus pandemic and, in theory, toward the front of the line for a vaccine shot as they begin to be distributed.
@@ -737,13 +676,10 @@ Ruth Faden, founder of Johns Hopkins University’s bioethics institute, similar
 Still, Knight said she expected it would be some time before coronavirus vaccines are licensed for pregnant women, as there would need to be several phases of trials conducted to gather the necessary data.
 “Pregnant women, who we know are also at risk, have no means of protection,” she said. “So the only thing we can be advising pregnant women is to continue social distancing and being very diligent about it. Whereas for all others [at high risk], the vaccine is really the beginning of seeing some of our freedoms back.” https://www.washingtonpost.com/world/2020/12/10/pregnant-women-are-excluded-initial-covid-19-vaccinations-highlighting-worldwide-research-gap/
 
-
 #20
 Источник: Washington Post
 Дата: 11.12.2020
 Заглавие: Russia expected a surge for its Sputnik V vaccine. But many skeptics still stayed away.
-
-
 By Robyn Dixon
 December 11, 2020
 MOSCOW — The staff at Moscow's Polyclinic No. 5, syringes at the ready, waited for the expected flood of people as the first phase of mass coronavirus vaccinations rolled out this week.
@@ -798,19 +734,15 @@ The head doctor at Polyclinic No. 68, Natalia Kuzenkova, acknowledged people wer
 “If the vaccination is successful, I hope we will be able to finish this pandemic marathon,” she said. “My goal is to explain to people that they might die if they don’t get vaccinated.”
 https://www.washingtonpost.com/world/europe/rusisia-vaccine-sputnik-interest/2020/12/10/005917fa-3702-11eb-9699-00d311f13d2d_story.html
 
-
 #21
 Источник: Washington Post
 Дата: 11.12.2020
 Заглавие: AstraZeneca and Russia’s Sputnik V lab to share data in seeking coronavirus vaccine advances
-
-
 Anglo-Swedish pharmaceutical company AstraZeneca developed its vaccine in collaboration with the University of Oxford. (Justin Tallis/AFP/Getty Images)
 By Robyn Dixon
  and 
 Rick Noack
- 
-December 11, 2020
+ December 11, 2020
 MOSCOW — The developers of Russia's Sputnik V vaccine will share science with pharmaceutical giant AstraZeneca to explore possible advances against the coronavirus, both sides said Friday, in the first major collaboration of labs that were in the frenzied vaccine hunt.
 It also is a further sign of the unprecedented pace of vaccine research. Efforts are already underway for improvements and second-generation formulas, even before the widespread distribution of the first crop of vaccines from labs in the United States, Europe, China and elsewhere.
 The research is aimed at testing new vaccine formulas using cold viruses, said a statement by the Anglo-Swedish AstraZeneca, which could work in tandem with Russia’s Gamaleya National Center of Epidemiology and Microbiology, whose Sputnik V uses two injections based on vectors of the common-cold virus, or adenovirus.
@@ -823,8 +755,6 @@ Russia expected a surge for its Sputnik V vaccine. But many skeptics still staye
 The potential collaboration also sets up contrasts as wealthy countries snap up the early supplies of the promising vaccines from U.S.-based Moderna and Pfizer, which worked with Germany’s BioNTech. The AstraZeneca-
 Oxford vaccine, which is still awaiting regulatory approval, has been promoted by the company as a “vaccine for the world,” with an eye to affordability and global reach.
 Russia says it has orders for 1.2 billion doses from more than 40 countries in Asia, Latin America, Africa, Central Asia, India and other regions.
-
-
 The AstraZeneca-Oxford vaccine, left, and Russia’s Sputnik V vaccine. (Left: John Cairns/University of Oxford/AFP/Getty Images. Right: Olga Maltseva/AFP/Getty Images)
 The British government also recently announced that it would begin testing combinations of two technologies, pairing one dose of a viral-vector vaccine like the one from AstraZeneca with a messenger RNA vaccine, the technology used in the Pfizer-BioNTech and Moderna vaccines.
 AstraZeneca said in a statement that such combinations “could help unlock synergies in protection and improve vaccine accessibility and could provide an additional approach to help overcome this deadly virus.”
@@ -839,8 +769,6 @@ Foreign Minister Sergei Lavrov said Thursday that the United States and its alli
 Russia had called for global cooperation to defeat the threat, he said, “but unfortunately, a number of countries, primarily the Americans and their allies, are trying to use this situation in their geopolitical interests, putting their selfish interests above those of all humanity.”
 AstraZeneca vaccine details published in Lancet, but questions remain
 Kremlin spokesman Dmitry Peskov on Friday denounced unspecified “dirty tricks . . . to discredit our vaccine” and told journalists that “there should not be any rivalry on the vaccine market.”
-
-
 Russia’s Sputnik V vaccine at a clinic in Moscow last week. (Maxim Shipenkov/EPA-EFE/Shutterstock)
 Sputnik V’s developers on Friday also offered to share the Russian vaccine with France’s Sanofi and Britain’s GlaxoSmithKline to boost their vaccine’s efficacy.
 Sanofi and GSK announced Friday that their vaccine would be delayed until the end of next year after their trial found a low immune response in older adults.
@@ -851,13 +779,10 @@ Clinical trials of a second Russian vaccine, developed by the Vector Center, beg
 The global price of the Sputnik V vaccine has been set at about $20 for two shots. Russian developers say the vaccine can be stored at about 18 degrees, making it easier to store and transport than the Pfizer-BioNTech vaccine, which must be kept at ultracold temperatures. The AstraZeneca-Oxford vaccine, however, can be stored long term at ordinary refrigerator temperatures.
 https://www.washingtonpost.com/world/europe/virus-vaccine-astrazeneca-russia-collaboration/2020/12/11/6481a3f8-3baa-11eb-aad9-8959227280c4_story.html
 
-
 #22
 Источник: Washington Post
 Дата: 16.12.2020
 Заглавие: As vials arrive in Israel, Palestinians worry they won’t get any
-
-
 By Miriam Berger10:45 p.m.
 The first vials of the coronavirus vaccine reached Israel one week ago, and more are expected to arrive soon. But Palestinians living in the Israeli-occupied, heavily infected West Bank and the Gaza Strip haven’t received any, and they aren’t sure when they will.
 In a letter to Israel’s health minister, Physicians for Human Rights Israel (PHRI) on Wednesday called on the ministry to set aside doses for Palestinians, arguing that “this is required given the fact that the Palestinians are subject to Israeli control and occupation, and have no option of purchasing the vaccines independently, but only through the Israeli authorities.”
@@ -868,13 +793,10 @@ Last week, the Palestinian Health Ministry announced that it planned to acquire 
 Palestinian officials have also said they do not have storage capacity to distribute the Pfizer vaccine, which must be kept at extremely cold temperatures.
 https://www.washingtonpost.com/nation/2020/12/16/coronavirus-covid-live-updates-us/
 
-
 #23
 Источник: Washington Post
 Дата: 17.12.2020
 Заглавие:Putin deflects interference allegations with own claims of U.S. efforts to undermine Moscow
-
-
 By Isabelle Khurshudyan
 December 17, 2020
 MOSCOW — Russian President Vladimir Putin tried Thursday to turn the tables on long-standing hacking and political interference allegations against Russia, claiming that the United States was waging similar efforts regarding Moscow's affairs.
@@ -909,13 +831,10 @@ Asked whether he’s been vaccinated with Russia’s Sputnik V jab, Putin, 68, s
 Putin ended the news conference with a gesture, promising Russian families with children under the age of 7 one-time payments of 5,000 rubles, or about $68.
 https://www.washingtonpost.com/world/europe/putin-annual-conference-russia/2020/12/17/4664afa2-3ed7-11eb-b58b-1623f6267960_story.html
 
-
 #24
 Источник: Washington Post
 Дата: 18.12.2020
 Заглавие: National World digest: Dec. 18, 2020
-
-
 December 18, 2020
 RUSSIA
 Sputnik V vaccine uses Twitter to taunt
@@ -925,13 +844,10 @@ The account, which has a modest 10,000 followers so far, began tweeting in Novem
 The Twitter account is one of several social media accounts, most in English, that RDIF is using to promote the vaccine. An Instagram account has also shared an image of director Oliver Stone with a caption: “first Oscar winner to get vaccinated with Sputnik V.”— Adam Taylor
 https://www.washingtonpost.com/national/world-digest-dec-18-2020/2020/12/18/1e13b99e-4148-11eb-8db8-395dedaaa036_story.html
 
-
 #25
 Источник: Washington Post
 Дата: 18.12.2020
 Заглавие: Russian vaccine Sputnik V is using Twitter to needle and undermine its rivals
-
-
 A Russian medical worker prepares a shot of Russia's Sputnik V coronavirus vaccine on Thursday in Moscow. (Pavel Golovkin/AP)
 By Adam Taylor
 December 18, 2020
@@ -964,17 +880,12 @@ Jankowicz said that she saw the provocative tweets as a sign of how fierce the p
 In the United States and Britain, President Trump and Prime Minister Boris Johnson have loudly proclaimed their success in developing and rolling out vaccines. But both China and Russia also have rolled out vaccines at remarkable speed, despite concerns about transparency and safety.
 “The responsible thing to do would be to communicate about vaccines without a hint of propaganda, but everyone — especially countries like China and Russia, eager to be seen as ‘the good guys’ for once — is keen to cash in on this positive PR opportunity,” Jankowicz said.
 The problem may be that this competition could undermine vaccine deployment. “Let’s hope it doesn’t cost lives,” Jankowicz added.
-
-
 https://www.washingtonpost.com/world/2020/12/18/russia-vaccine-sputnik-twitter/
-
 
 #26
 Источник: Washington Post
 Дата: 19.12.2020
 Заглавие: Chinese and Russian vaccines remain unproven — but desperate countries plan to use them anyway
-
-
 By Emily Rauhala, 
 Eva Douand Robyn Dixon 
 December 19, 2020
@@ -1026,13 +937,10 @@ Bar-Zeev noted that if countries want to mass distribute vaccines overseas, they
 “It will get reviewed as all products get reviewed,” he said, “and will need to pass that bar before WHO would support its widespread use.”
 https://www.washingtonpost.com/world/vaccines-china-russia-safety/2020/12/18/8c87ba54-3637-11eb-9699-00d311f13d2d_story.html
 
-
 #27
 Источник: Washington Post
 Дата: 19.12.2020
 Заглавие:Israel is starting to vaccinate, but Palestinians may have to wait months
-
-
 A Palestinian medic wearing a hazmat suit cares for a patient at the Dura public hospital, where coronavirus patients are treated, in the West Bank town of Hebron on Dec. 18. (Hazem Bader/AFP/Getty Images)
 By Steve Hendrix
 and Shira Rubin
@@ -1067,13 +975,10 @@ The Coordinator of Government Activities in the Territories, the Israeli Defense
 Hazem Balousha in Gaza City contributed to this report.
 https://www.washingtonpost.com/world/middle_east/israel-vaccine-palestinians-coronavirus/2020/12/18/f1d8d572-4083-11eb-b58b-1623f6267960_story.html
 
-
 #28
 Источник: Washington Post
 Дата: 21.12.2020
 Заглавие: 107 E.U. regulator authorizes Pfizer-BioNTech vaccine, with hopes to speed doses to all 27 member countries
-
-
 By Chico Harlan
 and 
 Michael Birnbaum
@@ -1104,13 +1009,10 @@ At least two E.U. countries, Germany and Hungary, have sought to purchase more v
 Germany is lining up extra doses of the Pfizer-BioNTech vaccine, a step Spahn justified by noting that the country had supplied crucial research funding at an early stage of the vaccine’s development. Hungary has bought the Russian Sputnik V vaccine for use within its borders.
 https://www.washingtonpost.com/world/europe/pfizer-covid-vaccine-authorization-europe/2020/12/21/5f75bc04-4187-11eb-b58b-1623f6267960_story.html
 
-
 #29
 Источник: Washington Post
 Дата: 09.01.2021
 Заглавие: Tales from the jab: How people in 6 countries got their vaccines
-
-
 By Brian Murphy, Steve Hendrix, 
 Shira Rubin, Carrie Donovan, Robyn Dixon, Laura Silvia Battagliaand Yvonne Gordon
 January 9, 2021
@@ -1143,13 +1045,10 @@ The Russian Direct Investment Fund, which is backing the vaccine, says 1 million
 — Robyn Dixon
 https://www.washingtonpost.com/world/coronavirus-vaccine-israel-russia-canada/2021/01/08/29de4308-5033-11eb-a1f5-fdaf28cfca90_story.html
 
-
 #30
 Источник: Washington Post
 Дата: 12.01.2021
 Заглавие: Israel’s vaccine success can’t hide a deeper divide
-
-
 By Ishaan Tharoor
 Columnist 
 January 12, 2021
@@ -1177,13 +1076,10 @@ On Tuesday, B’Tselem published a new position paper making the case that the p
 It concluded: “As painful as it may be to look reality in the eye, it is more painful to live under a boot.”
 https://www.washingtonpost.com/world/2021/01/12/israel-palestine-coronavirus-vaccine-disparity-analysis/
 
-
 #31
 Источник: Washington Post
 Дата: 20.01.2021
 Заглавие: China turbocharges bid to discredit Western vaccines, spread virus conspiracy theories
-
-
 By Gerry Shih
 January 20, 2021 at 10:09 p.m. EST
 TAIPEI, Taiwan — Europe and Australia should reject the "hasty" American vaccines linked to elderly deaths, Chinese scientists say. Western media refuses to investigate the dangers of the Pfizer-BioNTech shot, fumed a state television anchor. The coronavirus could be a plot involving former U.S. defense secretary Donald H. Rumsfeld, suggested a state media editor. And the real origin of the virus? Perhaps the U.S. Army's Fort Detrick should be investigated, intoned a Foreign Ministry spokeswoman.
@@ -1225,10 +1121,8 @@ Some Chinese researchers felt that Chinese vaccines were being unfairly criticiz
 
 #32
 Источник: Washington Post
-Дата: 21.12.2020
+Дата: 21.01.2020
 Заглавие: Finally getting the shot felt good. Thinking of those still waiting is what stings.
-
-
 By Steve Hendrix
 January 21, 2021 at 5:00 a.m. EST
 JERUSALEM — Like so many of my fellow Earthlings, I have been waiting for this moment for 10 months, since it became clear that this was the big one, the one the experts warned us about, the pathogen capable of bringing humanity to a standstill.
@@ -1256,8 +1150,6 @@ But another also admitted it was hard to see me, and others, climbing out of the
 Источник: Washington Post
 Дата: 21.01.2021
 Заглавие: E.U. leaders consider travel bans, faster vaccine rollout to contain coronavirus variants
-
-
 By Michael Birnbaum
 January 21, 2021 at 6:18 p.m. EST
 European leaders, struggling with a slow vaccination effort and fearful that highly contagious coronavirus variants could rapidly overwhelm their medical systems, moved Thursday to begin reimposing border restrictions and to speed the distribution of vaccines — even those not yet approved for use.
@@ -1276,13 +1168,10 @@ Hours before Thursday’s meeting, Hungary announced it was breaking with the ot
 The E.U. approves vaccines as a bloc, but individual countries can offer emergency authorizations. The Hungarian move may create pressure on other countries to follow suit, although many E.U. leaders have said that a unified strategy will be the most effective, because it will build the most confidence across the union of 450 million people.
 https://www.washingtonpost.com/world/europe/covid-variant-europe-travel-astrazeneca/2021/01/21/b598ed94-5b5f-11eb-a849-6f9423a75ffd_story.html
 
-
 #34
 Источник: Washington Post
 Дата: 22.01.2021
 Заглавие: Israel recommends coronavirus vaccine for pregnant women, marking a shift as some countries reassess risk
-
-
 By Miriam Berger
 January 22, 2021 at 7:00 a.m. EST
 When some countries began rolling out coronavirus vaccines late last year, each put forward its own criteria for which populations to prioritize — a list that, for the most part, excluded or cautioned against the inclusion of women who were breastfeeding, pregnant or expected soon to be pregnant.
@@ -1314,13 +1203,10 @@ Other countries, such as South Korea, have not yet provided guidance as they pre
 Fears over an increased risk of severe infection and hospitalization for pregnant women with covid-19 have mounted amid the spread of highly transmissible virus variants. Younger populations have been particularly hit hard in some countries. There is no evidence that these variants are more harmful to pregnant women, Knight said, but more people, including pregnant women, are likely to be exposed to the virus and its resulting risks.
 https://www.washingtonpost.com/world/2021/01/22/coronavirus-vaccine-pregnant-women-israel-risks/
 
-
 #35
 Источник: Washington Post
 Дата: 24.01.2021
 Заглавие: The Americas
-
-
 By Mary Beth Sheridan
 and 
 Kevin Sieff
@@ -1354,8 +1240,6 @@ https://www.washingtonpost.com/world/mexico-president-amlo-tests-positive-corona
 Источник: Washington Post
 Дата: 26.01.2021
 Заглавие: Only one of the world’s 29 poorest countries has started coronavirus vaccinations
-
-
 By Adam Taylor
 and 
 Danielle Paquette
@@ -1386,18 +1270,14 @@ The country was one of the epicenters of an Ebola outbreak in 2014 that killed m
 Dhillon, who advised the president of Guinea during the Ebola outbreak, said that both Guinean public health officials such as Keita and the general public had experience with a pandemic, which probably proved useful.
 https://www.washingtonpost.com/world/2021/01/26/guinea-covid-vaccinations-poor-countries/
 
-
 #37
 Источник: Washington Post
 Дата: 02.02.2021
 Заглавие: Russian vaccine Sputnik V more than 90% effective in interim trial
-
-
 By Adam Taylor
  and 
 Carolyn Y. Johnson
- 
-February 2, 2021 at 2:48 p.m. EST
+ February 2, 2021 at 2:48 p.m. EST
 This article is free to access.
 Why?
 Correction: An earlier version of this article inaccurately described the purpose of Mexican Deputy Health Minister Hugo López-Gatell’s January visit to Argentina. He visited to see the rollout of the Sputnik V vaccine, not Phase 3 trials.
@@ -1437,13 +1317,10 @@ On Tuesday, Algerian officials said that they will start producing the Sputnik V
 Sudarsan Raghavan in Cairo and Mary Beth Sheridan in Mexico City contributed to this report.
 https://www.washingtonpost.com/world/2021/02/02/sputnik-v-russia-lancet/
 
-
 #38
 Источник: Washington Post
 Дата: 02.02.2021
 Заглавие: U.S. to start distributing coronavirus vaccines directly to pharmacies
-
-
 By Erin Cunningham, 
 Paul Schemm, Lateshia Beachum
 and Hannah Knowles
@@ -1454,13 +1331,10 @@ The Russian vaccine effort has been criticized for being too rushed, elevating n
 Outside experts said the data convincingly shows the vaccine works. But because the trial was conducted in Russia in the fall, before the spread of virus variants that have shown signs of eroding vaccine effectiveness, questions loom about how protective the vaccine will be in the face of emerging threats.
 https://www.washingtonpost.com/nation/2021/02/02/covid-coronavirus-latest-updates/
 
-
 #38
 Источник: Washington Post
 Дата: 03.02.2021
 Заглавие: Stuck between the pandemic and politics, some countries ban rivals’ vaccines
-
-
 By Adam Taylor
 February 3, 2021 at 8:33 a.m. EST
 Governments around the world are desperate for coronavirus vaccines, with many battling publicly for limited doses and accusing others of hoarding. Yet amid this rush, some countries are not only refusing potential doses produced by rivals but officially banning them.
@@ -1504,13 +1378,10 @@ A representative of the Taipei Economic and Cultural Representative Office in th
 However, Taiwan has a luxury that Ukraine and Iran do not have — a relatively contained outbreak. With only 912 confirmed cases, eight deaths and tightly controlled borders, the island has resumed relatively normal life, although mass gatherings remain discouraged.
 https://www.washingtonpost.com/world/2021/02/03/ukraine-russia-iran-vaccines/
 
-
 #39
 Источник: Washington Post
 Дата: 05.02.2021
 Заглавие: As Europe’s vaccination efforts falter, Russia and China are now seen as options
-
-
 By Loveday Morris
 February 5, 2021 at 10:02 a.m. EST
 BERLIN — As the European Union's vaccination program stumbles, Russia and China are poised to fill the gap — with Moscow opening talks to produce vaccines in the heart of Europe and both building political cachet as they supply those scrambling for shots on the bloc's fringes.
@@ -1557,19 +1428,12 @@ But Russia and China have had a head start. Production and certification of the 
  “The primary objective that the European Union has is to ensure that the people are vaccinated,” she said. “I think in this case, the European Union will try to close its eyes to the downside of having Russia distribute vaccine.”
 It’s not a problem if Hungary and others want to use Russian and Chinese vaccines to protect their citizens, Krekó said.
 “The problem is if it’s communicated in a way that it’s only our Eastern friends that can help us in a time of trouble,” he added.
-
-
 https://www.washingtonpost.com/world/europe/europe-vaccines-russia-china-germany-serbia/2021/02/04/cd1f674c-655d-11eb-bab8-707f8769d785_story.html
-
-
-
 
 #40
 Источник: Washington Post
 Дата: 08.02.2021
 Заглавие: The Technology 202: Facebook is still freezing all its political donations. Eventually, it may have to make a choice.
-
-
 By Cat Zakrzewski
 Technology policy reporter 
 February 8, 2021 at 9:30 a.m. EST
@@ -1583,17 +1447,10 @@ Intelligence officials spotted an uptick in the Russian campaign after the Sputn
 Two of Latin America’s most influential social media accounts — for Russian news outlets Russia Today and Sputnik — have been involved in the campaign. RT told the Times that the posts highlighted by the newspaper were “a cherry-picked fraction of our coverage,” while Sputnik did not respond to the paper’s request for comment.
 https://www.washingtonpost.com/politics/2021/02/08/technology-202-facebook-is-still-freezing-all-its-political-donations-eventually-it-may-have-make-choice/
 
-
 #41
-
-
 Источник: Washington Times
 Дата: 08.02.2021
 Заглавие: How Russian biotech trampled protocols — and challenged the West — in race for Sputnik V vaccine
-
-
-
-
 By Robyn Dixon
 February 8, 2021 at 8:51 a.m. EST
 MOSCOW — Russian science — and President Vladimir Putin's ambitions of turning the country into a global technology powerhouse — is having something of a moment.
@@ -1644,13 +1501,10 @@ He said Russia’s reflexive resistance to Western levels of transparency and me
 “In my opinion, they should publish as much information as they can,” Yasny said. “But this is not in their DNA. They prefer to conceal things.”
 https://www.washingtonpost.com/world/europe/russia-vaccine-sputnik-coronavirus-lancet/2021/02/08/18d8d55c-6571-11eb-bab8-707f8769d785_story.html
 
-
 #42
 Источник: Washington Post
 Дата: 09.02.2021
 Заглавие: An E.U. diplomat went to Moscow to build bridges. It didn’t go well.
-
-
 By Michael Birnbaum
 February 9, 2021 at 2:42 p.m. EST
 A top European Union official traveled to Moscow last week bearing an olive branch. But his experience proved so humiliating that it may have sown the seeds of U.S.-E.U. cooperation on a tougher Russia policy.
@@ -1675,13 +1529,10 @@ In triggering a potentially tougher European response, Lavrov’s prickly strate
 “Most probably, Russia is not looking for any meaningful relations” with the bloc, focusing on cultivating individual European countries and exacerbating divisions, said Latvian Foreign Minister Edgars Rinkevics, who was among those who warned Borrell about the visit. “It will backfire, but then it is their choice.”
 https://www.washingtonpost.com/world/europe/an-eu-diplomat-went-to-moscow-to-build-bridges-it-didnt-go-well/2021/02/09/68cfefb0-6ae8-11eb-a66e-e27046e9e898_story.html
 
-
 #43
 Источник: Washington Post
 Дата: 10.02.2021
 Заглавие: Maduro touts miracle cure to mask massive problem: Venezuela can’t (or won’t) get vaccines
-
-
 By Ana Vanessa Herrero
 and 
 Anthony Faiola
@@ -1739,13 +1590,9 @@ https://www.washingtonpost.com/world/the_americas/coronavirus-venezuela-vaccine-
 Источник: Washington Post
 Дата: 10.02.2021
 Заглавие: Did we underestimate Russia’s vaccine?
-
-
 By Ishaan Tharoor
 Columnist
 February 10, 2021 at 12:00 a.m. EST
-
-
 Not long ago, talk of the Russian-made coronavirus vaccine provoked mockery. “There’s no way in hell the U.S. tries this on monkeys, let alone people,” a Trump administration official told CNN in August, referring to initial reports about Russia’s development of the Sputnik V drug — which bypassed traditional steps in testing before its release. Even at home, where a history of political opacity and bureaucratic incompetence has left a lingering distrust of authority, many ordinary Russians shied away from getting the jab once it was made available to the public in December.
 But now, Sputnik V — named after the world’s first satellite that saw the Soviets initially outpace the Americans in the space race — is starting to look like it could be a global success story. It got a boost last week after the respected British medical journal the Lancet published a peer-reviewed paper that found the vaccine had 91.6 percent efficacy 21 days after the first shot and 91.8 percent for those over 60 years old, placing it on par with the celebrated Pfizer-BioNTech and Moderna vaccines.
 More than a dozen countries have approved the vaccine for use, with more likely to follow now that it has received the Lancet’s seal of approval. Sputnik V is considerably cheaper than its Western competitors and does not require the same sort of ultracold storage infrastructure that would complicate distribution of the Pfizer vaccine in much of the developing world.
@@ -1754,8 +1601,6 @@ And it could amount to a rare soft-power victory for the Kremlin. “It does say
 Experts speaking to Dixon cautioned that this achievement may be something of an “outlier” and does not herald a Russian scientific renaissance. But it does come on the heels of a major national research strategy implemented by President Vladimir Putin in recent years, including investments in universities and research labs.
 On multiple continents, governments have turned to administering Sputnik V. This week, Iran began inoculating its health-care workers with the Russian vaccine ahead of a broader push toward immunization in a country weakened by economic sanctions and home to the pandemic’s worst outbreak in the Middle East. Russia and Iran also agreed a deal for the Iranians to start manufacturing the vaccine by April. Plans are already in motion for Sputnik V to be mass produced in India, Turkey, Brazil and South Korea, while Russia has promised free vaccinations to its entire population.
 Six countries in Latin America, beginning with Argentina, have begun distributing it to their citizens. “The Russian Sputnik V vaccine is safe, it has 92 percent efficacy against COVID, it can be used safely and is effective in seniors,” Hugo López-Gatell, the Mexican government’s chief pandemic spokesperson, told reporters last week. “It allows us now to accelerate the step of vaccination against COVID in Mexico.” Last month, Mexico announced the purchase of 24 million Sputnik doses.
-
-
 People wait to receive doses of the Sputnik V vaccine at the River Plate stadium in Buenos Aires on Feb. 3. (Matias Baglietto/Reuters)
 Perhaps the biggest prize — at least, in geopolitical terms — is Europe. Dogged by production shortages and failures in procurement, E.U. countries have lagged in their vaccination efforts compared with the United States and Britain. This week, Hungary announced its approval of Sputnik V and received 40,000 doses of the vaccine. “The vaccine cannot be a political question,” Prime Minister Viktor Orban told state radio last month. “One can only choose between western and eastern vaccines when you have enough.”
 It’s piquing interest further west, too. German Chancellor Angela Merkel said last week that she would welcome the Russian vaccine within the bloc as long as it passed the approval of E.U. regulators.
@@ -1764,13 +1609,10 @@ That openness stands in stark contrast to tensions between the two powers on oth
 Kremlin critics want President Biden and his allies in Europe to take a firm line against the Russian regime. At the very least, they should “stop giving Putin and other authoritarian regimes leverage and legitimacy with trade deals, memberships and access,” exiled dissident Garry Kasparov wrote in a Washington Post opinion piece. “Lecturing dictators about human rights is meaningless if you’re also taking their oil, gas and cash.” But what about their vaccines?
 https://www.washingtonpost.com/world/2021/02/10/russia-sputnik-vaccine-underestimated/
 
-
 #45
 Источник: Washington Post
 Дата: 11.02.2021
 Заглавие: Among Latino immigrants, false vaccine claims are spreading as fast as the virus
-
-
 By Teo Armus
 February 11, 2021 at 4:00 p.m. EST
 Since November, Blanca Espronceda has spent many mornings chatting up other Latinos about the coronavirus vaccine, recruiting her neighbors in Maryland’s heavily immigrant suburbs to participate in ongoing trials.
@@ -1814,13 +1656,10 @@ Such was the case one recent Saturday outside a Korean Korner supermarket in Sil
 But Fontalvo, 74, gently shot back with rapid-fire questions: Did Ura ever study how other epidemics were put to an end? Does he know anyone who died of covid-19? Has he looked at the staggering death toll? And hadn’t he received other vaccines as a child?
 Accepting a flier from her, the teenager was left with little to say in response.
 
-
 #46
 Источник: Washington Post
 Дата: 17.02.2021
 Заглавие: First coronavirus vaccines arrive in Gaza Strip following blockage by Israel
-
-
 By Steve Hendrix
 and  Shira Rubin
 February 17, 2021 at 3:02 p.m. EST
@@ -1847,25 +1686,19 @@ Israel’s parliament, the Knesset, pressed officials in charge of Gaza access t
 “We know that 500 vaccines that are brought to Gaza will first go to Hamas leaders and not to any medical staff member. Let us not be played for fools,” said Zvi Hauser, a lawmaker with the right-wing Derech Eretz party.
 https://www.washingtonpost.com/world/middle_east/israel-gaza-vaccine-blocked/2021/02/17/5a29112a-70f7-11eb-8651-6d3091eac63f_story.html
 
-
 #47
 Источник: Washington Post
 Дата: 17.02.2021
 Заглавие: Access to the coronavirus vaccine is inequitable
-
-
 February 17, 2021 at 5:04 p.m. EST
 As the Feb. 14 news article “Moderna has yet to deliver on promised ‘equitable access’ ” pointed out, other countries are ahead of the United States in vaccine diplomacy. China has signed bilateral agreements with more than 15 countries, including Brazil and Turkey. The Russian Direct Investment Fund — responsible for promoting the Sputnik V vaccine around the world — boasts it has expressions of interest from more than 50 countries. Though these efforts to bolster their soft power have appeal in many parts of the world, widespread use of partially efficacious vaccines can lead to even greater virus resistance and deadlier strains in the future.
 President Biden has implemented important steps to accelerate vaccine coverage in the United States, and the administration is playing catch-up outside its borders. Recognizing the importance of global leadership to curb the spread of the coronavirus, the Biden administration released an order to strengthen the international response and to advance global health security and biological preparedness. These are welcome steps for a world that needs equitable distribution of all safe and effective vaccines.
 https://www.washingtonpost.com/opinions/letters-to-the-editor/access-to-the-coronavirus-vaccine-is-inequitable/2021/02/17/fe1df4ca-70a3-11eb-8651-6d3091eac63f_story.html
 
-
 #48
 Источник: Washington Post
 Дата: 17.02.2021
 Заглавие: Vaccine shortage prompts U.S. diplomats to request doses from foreign governments, including Russia
-
-
 By John Hudson
 February 17, 2021 at 12:57 p.m. EST
 U.S. diplomats serving in countries with poor medical infrastructure and high coronavirus infection rates are venting frustrations about the way top officials in Washington are distributing the vaccines for the virus, according to meeting notes, interviews and documents obtained by The Washington Post.
@@ -1904,13 +1737,10 @@ Lawrence Gostin, a professor of global health law at Georgetown University, said
 But that doesn’t diminish the responsibility the department has to diplomats serving abroad, he said. “We’re asking them to go to dangerous places. We have an ethical obligation to vaccinate our people overseas,” he’s said. “And it’s hard not to bristle at the idea that we would farm out the protection of our diplomatic corps to a foreign government.”
 https://www.washingtonpost.com/national-security/state-department-coronavirus-vaccine-diplomats/2021/02/17/ec507e84-70d5-11eb-a4eb-44012a612cf9_story.html
 
-
 #49
 Источник: Washington Post
 Дата: 18.02.2021
 Заглавие: Europe is failing on vaccines. Help from the U.S. could bring the two back together.
-
-
 By Dalibor Rohac
 February 18, 2021 at 3:12 p.m. EST
 Dalibor Rohac is a resident scholar at the American Enterprise Institute in Washington.
@@ -1928,17 +1758,12 @@ There is also a tension between the seemingly generous offers made by Russia and
 Even so, if the Serbian and the Hungarian bets pay off, Russia and China will have scored a massive win — at the expense of both Europe and the United States. To illiberal voices across the continent, such an outcome would only confirm their view of the E.U. and Western alliances as ossified and irrelevant to people’s most pressing needs.
 We often forget that the Marshall Plan was in itself too small to make a meaningful macroeconomic difference. Its real value was in easing political pain in Europe at a sensitive moment. Similarly, even a modest vaccine aid package provided by the United States to the European governments most vulnerable to Chinese and Russian influence, both inside and outside the E.U., could be a political game-changer.
 Lofty appeals to common values and nostalgia for the 1990s are not going to be enough to undo the damage done to the transatlantic partnership by the previous administration, nor are they going to bridge the substantive differences existing between the United States and Europe on many issues. A vaccine Marshall Plan extended to Europe in a time of need, in contrast, would provide a tangible reminder of why Europeans and Americans still need each other and set the stage for a more cooperative partnership going forward.
-
-
 https://www.washingtonpost.com/opinions/2021/02/18/europe-vaccines-america-marshall-plan/
-
 
 #50
 Источник: Washington Post
 Дата: 20.02.2021
 Заглавие: Israel agrees to vaccinate Palestinian workers, Palestinian officials say
-
-
 By Steve Hendrix
 February 20, 2021 at 6:00 a.m. EST
 JERUSALEM — Israel, which has faced criticism from human rights groups for not extending its world-leading vaccination program to Palestinian territories under its control, agreed Friday to inoculate 100,000 Palestinians who regularly cross into Israel to work, according to the Palestinian minister of health.
@@ -1960,13 +1785,10 @@ Israeli officials said the request to send the vaccine doses across the checkpoi
 “To me, health should be beyond politics,” al-Kaila said. “We and the Israelis, the Lebanese, the Syrians, the Egyptians, we are all in the same region. We should reach herd immunity together.”
 https://www.washingtonpost.com/world/israel-to-vaccinate-palestinian-workers/2021/02/20/5097c53a-7358-11eb-93be-c10813e358a2_story.html
 
-
 #51
 Источник: Washington Post
 Дата: 22.02.2021
 Заглавие: The Russians and the Chinese are touting their vaccines. Should we trust them?
-
-
 By Frida Ghitis
 Contributing columnist
 February 22, 2021 at 11:20 a.m. EST
@@ -1992,13 +1814,10 @@ Del Rio predicts that Russia will never subject its vaccine to the approval proc
 Skeptical or not, the world desperately needs billions of doses of vaccine to push back the virus. As the Russian and Chinese vaccines are rolled out, independent Phase 4 studies should double-check the reliability of earlier research, following up on those who have received doses and comparing their outcomes to those who have not or who have received other vaccines. As someone once urged during the Cold War: Trust, but also verify.
 https://www.washingtonpost.com/opinions/2021/02/22/russians-chinese-are-touting-their-vaccines-should-we-trust-them/
 
-
 #52
 Источник: Washington Post
 Дата: 23.02.2021
 Заглавие:bSNL’s Michael Che said Israel only vaccinated its ‘Jewish half.’ Critics call the joke ‘an antisemitic trope.’
-
-
 By Timothy Bella
 February 23, 2021 at 5:32 a.m. EST
 As “Weekend Update” on “Saturday Night Live” fired off jokes about the pandemic this weekend, anchor Michael Che turned his attention to Israel’s world-leading vaccination program, which has faced criticism for not extending access to Palestinian territories.
@@ -2019,13 +1838,10 @@ A petition from the American Jewish Committee pushing for NBC to retract the jok
 On Monday, Greenblatt said he had asked SNL executive producer Lorne Michaels “to take action both to repair the damage that’s been done and ensure that this does not happen again.”
 https://www.washingtonpost.com/nation/2021/02/23/michael-che-israel-vaccine-snl/
 
-
 #53
 Источник: Washington Post
 Дата: 24.02.2020
 Заглавие: Israel doles out small batches of vaccine as diplomatic perks
-
-
 By Steve Hendrix
 February 24, 2021 at 11:57 a.m. EST
 JERUSALEM — Prime Minister Benjamin Netanyahu is giving small amounts of surplus vaccine to several countries that have warming relations with Israel, including two that have moved their embassies to the contested city of Jerusalem, according to his office and local media reports.
@@ -2042,13 +1858,10 @@ Israeli health officials have said they hope to provide more vaccine to the Pale
 Israel has yet to publicly confirm that arrangement. A public health adviser to the government said Wednesday that the plans were still being finalized. The symbolic donation announced Tuesday is apparently unrelated to that larger effort.
 https://www.washingtonpost.com/world/middle_east/israel-vaccine-diplomacy/2021/02/24/528783e2-76ac-11eb-9489-8f7dacd51e75_story.html
 
-
 #54
 Источник: Washington Post
 Дата: 04.03.2021
 Заглавие: WNBA players’ next cause: Educating themselves — and fans — on vaccine safety
-
-
 By Candace Buckner
 March 4, 2021 at 4:00 a.m. EST
 This story was featured in The Optimist newsletter. Sign up here to receive stories of kindness, resilience and the best among us every Wednesday and Sunday.
@@ -2081,13 +1894,10 @@ Most of the players on the Zoom, some lounging in bed and wearing sweatpants, sh
 “We realize how powerful our voices have been,” Ogumike said. “We really just want to meet the moment in a way that obviously continues to align with our engagement with the communities.”—
 https://www.washingtonpost.com/sports/2021/03/04/wnba-coronavirus-vaccine-safety/
 
-
 #55
 Источник: Washington Post
 Дата: 07.03.2021
 Заглавие: Europe debates vaccine passports as a way to save summer tourism
-
-
 By Rick Noack
 March 7, 2021 at 5:00 a.m. EST
 BERLIN — Ahead of Europe's summer holiday season, some top destinations such as Greece and Spain are pushing the European Union to introduce digital "vaccine passports" to ease entry for visitors — and their tourism cash.
@@ -2124,13 +1934,10 @@ Passports were widely introduced during World War I in what some saw as a tempor
 “I would say the [current] pandemic will have a lasting impact on the practices and experience of border crossing,” Kavalski said.
 https://www.washingtonpost.com/world/europe/europe-vaccine-passport-travel/2021/03/05/60db1d8a-7aaa-11eb-8c5e-32e47b42b51b_story.html
 
-
 #56
 Источник: Washington Post
 Дата: 08.03.2020
 Заглавие: After delays and ethics debates, Israel begins vaccinating 100,000 Palestinian day laborers
-
-
 By Shira Rubin
 March 8, 2021 at 7:44 a.m. EST
 SHA’AR EFRAIM, Israel — Israel on Monday kicked off its two-week campaign to vaccinate more than 100,000 Palestinians carrying Israeli work permits even as inoculations remain a distant dream for most residents of the West Bank.
@@ -2158,13 +1965,10 @@ More than 1,500 people have died of the coronavirus in the West Bank, while Gaza
 “No one from the Palestinian Authority is coming to help, so yes, it is the responsibility of the state of Israel” to step in, said Bakr Seruji, a day laborer and father of seven from the Palestinian town of Tulkarem, sipping coffee after receiving a vaccination Monday morning. “The Israelis, we live with them, we are the same people; this is our only chance.”
 https://www.washingtonpost.com/world/middle_east/vaccine-israel-palestinian-palestine/2021/03/08/c43b6390-7fef-11eb-be22-32d331d87530_story.html
 
-
 #57
 Источник: Washington Post
 Дата: 09.03.2021
 Заглавие: Russia’s Sputnik V vaccine may be made in Italy as Europe seeks to expand options
-
-
 By Robyn Dixon
 March 9, 2021 at 9:57 a.m. EST
 MOSCOW — The backers of Russia's Sputnik V vaccine signed a deal Tuesday that could pave the way for production in Italy, a potential major step in Moscow's efforts to expand its vaccine reach in the West.
@@ -2189,15 +1993,10 @@ According to the RDIF, Sputnik V has been registered in 46 countries. Russia say
 RDIF head Kirill Dmitriev told Italian television Sunday that Russia has also formed a partnership with a German firm and is in talks with French companies.
 https://www.washingtonpost.com/world/europe/russia-italy-sputnik-vaccine-europe/2021/03/09/aa979e12-80d6-11eb-be22-32d331d87530_story.html
 
-
-
-
 #58
 Источник: Washington Post
 Дата: 11.03.2021
 Заглавие: Biden faces pressure to distribute vaccines worldwide, while Americans still need them at home
-
-
 By Anne Gearan
 and 
 Miriam Berger
@@ -2246,21 +2045,15 @@ A few, including India, are U.S. partners. Israel, a close ally of the United St
 “The donations that we’ve seen so far have been useful in that they’ve started vaccination campaigns in some countries,” Bollyky said, citing India’s donations to neighboring countries as an example. “But they are no answer for meeting global demand for vaccines.”
 https://www.washingtonpost.com/politics/biden-vaccine-global-distribution/2021/03/11/62039c40-81db-11eb-81db-b02f0398f49a_story.html
 
-
 #59
 Источник: Washington Post
 Дата: 16.03.2021
 Заглавие: U.S. officials pushed Brazil to reject Russia’s coronavirus vaccine, according to HHS report
-
-
 Russia hopes to boost its image worldwide with the Sputnik V vaccine.
-
-
 By Antonia Noori Farzan
  and 
 Heloísa Traiano
- 
-March 16, 2021 at 11:58 a.m. EDT
+ March 16, 2021 at 11:58 a.m. EDT
 Buried deep in the dry, 72-page annual report of the U.S. Department of Health and Human Services lay a startling admission: U.S. health officials under President Donald Trump worked to convince Brazil to reject Russia’s Sputnik V coronavirus vaccine.
 The document, released in January, drew little attention at first. But that changed on Monday when the official Twitter account for the Sputnik V vaccine posted a screenshot of the previously overlooked claim, citing a report by Brasil Wire, and criticized the United States for effectively blocking Russia’s attempts at vaccine diplomacy.
 “We believe countries should work together to save lives,” the tweet read. “Efforts to undermine the vaccines are unethical and are costing lives.”
@@ -2281,21 +2074,12 @@ The federal government announced its purchase of the Sputnik V vaccine one day a
 Brazilian President Jair Bolsonaro and his government have faced widespread criticism over slow negotiations to purchase vaccines from foreign companies. Over the past year, Bolsonaro has repeatedly dismissed the threat posed by covid-19, the disease caused by the coronavirus. He also tested positive twice for the coronavirus in July.
 Meanwhile, the virus continues to spread rapidly in the country, straining an already overburdened health-care system. Only 2.3 percent of the population has received the two doses of the AstraZeneca or Sinovac vaccine.
 Heloísa Traiano in Rio de Janeiro contributed to this report.
-
-
-
-
 https://www.washingtonpost.com/world/2021/03/16/hhs-brazil-sputnik-russia/
-
-
-
 
 #60
 Источник: Washington Post
 Дата: 17.03.2021
 Заглавие The Health 202: Trump says he 'recommends' the coronavirus vaccines
-
-
 By Paige Winfield Cunningham
 Reporter 
 March 17, 2021 at 7:37 a.m. EDT
@@ -2306,8 +2090,6 @@ The Health Attaché office within HHS’s Office of Global Affairs pushed Brazil
 Brazil has the second-highest death toll from the virus worldwide and has struggled to obtain vaccine supply. So far, only 2.3 percent of its population has been fully vaccinated with shots from AstraZeneca or Sinovac.
 The case is another example of the ways in which vaccines have become a form of diplomatic currency. China, which has been promoting its own coronavirus shots, recently announced that foreigners who received one of several Chinese vaccines will receive streamlined entry into the country.
 The United States has been less visible in the vaccine soft-power game so far, but that may soon change. Biden said that his administration is in talks with several countries about how it will share extra vaccine doses. 
-
-
 https://www.washingtonpost.com/politics/2021/03/17/health-202-trump-says-he-recommends-coronavirus-vaccines/
 
 
@@ -2315,8 +2097,6 @@ https://www.washingtonpost.com/politics/2021/03/17/health-202-trump-says-he-reco
 Источник: Washington Post
 Дата: 17.03.2021
 Заглавие: E.U. unveils vaccine passport plan to enable summer travel
-
-
 By Rick Noack
 and 
 Quentin Ariès
@@ -2345,8 +2125,6 @@ https://www.washingtonpost.com/world/europe/vaccine-passports-europe-travel/2021
 Источник: Washington Post
 Дата: 17.03.2021
 Заглавие: Brazil’s rolling coronavirus disaster is a global problem
-
-
 By Ishaan Tharoor
 Columnist
 March 17, 2021 at 12:00 a.m. EDT
@@ -2365,8 +2143,6 @@ https://www.washingtonpost.com/world/2021/03/17/brazil-coronavirus-disaster-bols
 Источник: Washington Post
 Дата: 18.03.2020
 Заглавие: Europe’s ultra-cautious vaccine strategy is itself a risky bet
-
-
 By Adam Taylor
 Reporter 
 March 18, 2021 at 12:00 a.m. EDT
@@ -2400,8 +2176,6 @@ https://www.washingtonpost.com/world/2021/03/18/europe-astrazeneca-vaccine-respo
 Источник: Washington Post
 Дата: 22.03.2021
 Заглавие: Hungary has approved more coronavirus vaccines than any other country as it faces a brutal third wave
-
-
 By Adam Taylor
 March 22, 2021 at 1:41 p.m. EDT
 Hungarian officials announced Monday that they had issued emergency approval for China’s CanSino Biologics coronavirus vaccine and for Covishield, an Indian-made version of the vaccine developed by AstraZeneca, bringing the total number of approved coronavirus vaccines in the country to seven.
@@ -2416,8 +2190,6 @@ Hungarian Prime Minister Viktor Orban, facing reelection next year, has made a v
 On Friday, Orban announced Hungary had given out more than 1.5 million vaccine doses among the country’s population of 9.8 million. Of the large countries in Europe, it is second only to Britain in vaccinations administered per capita.
 But the coronavirus continues to hit the country hard, with 81 cases per 100,000 residents, according to a seven-day rolling average tracked by The Washington Post, and a death rate of 1.92 per 100,000 — the second highest in the world, behind the Czech Republic.
 Orban has said he wants to lift strict shutdown measures once the country has delivered 2.5 million doses, telling public radio on Friday that there was a “good chance” Hungary could have a “free summer.”
-
-
 https://www.washingtonpost.com/world/2021/03/22/hungary-vaccine-approval/
 
 
@@ -2425,8 +2197,6 @@ https://www.washingtonpost.com/world/2021/03/22/hungary-vaccine-approval/
 Источник: Washington Post
 Дата: 22.03.2021
 Заглавие: Third dose of Sinopharm coronavirus vaccine needed for some in UAE after low immune response
-
-
 By Paul Schemm
 March 22, 2021 at 5:42 a.m. EDT
 DUBAI — A "very small number" of people in the United Arab Emirates are being invited to receive a third shot of the Sinopharm coronavirus vaccine after antibody tests indicated they did not have a sufficient immune response following two doses of the Chinese-made vaccine, its distributor confirmed Sunday.
@@ -2454,8 +2224,6 @@ https://www.washingtonpost.com/world/middle_east/uae-sinopharm-third-dose/2021/0
 Источник: Washington Post
 Дата: 24.03.2021
 Заглавие: Biden’s vaccination success story is about to run into a world of pressure
-
-
 The administration has prioritized vaccinating Americans, but when will the U.S. help poorer countries?
  Image without a caption 
 
@@ -2485,8 +2253,6 @@ https://www.washingtonpost.com/politics/2021/03/24/bidens-vaccination-success-st
 Источник: Washington Post
 Дата: 24.03.2021
 Заглавие: 48 Putin’s vaccine puzzle: Why the secrecy over his jab?
-
-
 By Isabelle Khurshudyan
 March 24, 2021 at 8:24 a.m. EDT
 MOSCOW — Vladimir Putin isn't exactly camera shy.
@@ -2521,8 +2287,6 @@ https://www.washingtonpost.com/world/europe/putin-vaccine-secret-sputnik/2021/03
 Источник: Washington Post
 Дата: 28.03.2021
 Заглавие: Russia’s Putin pumps up the swagger in swipes at Biden
-
-
 By Robyn Dixon
 March 28, 2021 at 5:00 a.m. EDT
 MOSCOW — The most cutting blow lately against Russian President Vladimir Putin was not President Biden's recent "killer" epithet but the taunt from jailed Kremlin critic Alexei Navalny calling him "grandpa in his bunker."
@@ -2564,8 +2328,6 @@ https://www.washingtonpost.com/world/europe/russia-putin-biden-killer-navalny/20
 Источник: Washington Post
 Дата: 29.03.2021
 Заглавие: Slovakia’s prime minister is the first world leader to step down over covid controversy
-
-
 March 29, 2021 at 3:37 p.m. EDT
 In late February, a Slovakian military jet secretly took off for Moscow in the dead of night. When it returned to the eastern city of Kosice the next day, Slovakian Prime Minister Igor Matovic was there to meet it on the tarmac, announcing that the plane held the first shipment of an expected 2 million doses of Russia’s Sputnik V coronavirus vaccine.
 Top government officials were stunned. Many said they had been given no advance warning that Matovic planned to buy the vaccine, which has not been cleared by European Union regulators.
@@ -2580,19 +2342,15 @@ Last spring, Slovakia’s strict lockdown and border closures allowed the countr
 Tougher new restrictions were announced in February, but health officials have complained that the regulations are rarely enforced and little attention is paid to whether infected people self-quarantine, according to German public broadcaster Deutsche Welle.
 Matovic’s resignation means the governing coalition will remain intact, and it prevents the country from having to hold a snap election.
 https://www.washingtonpost.com/world/2021/03/29/slovakia-sputnik-matovic/
+
 #70
 Источник: Washington Post
 Дата: 03.04.2021
 Заглавие: ‘They have another door’: Kenya’s vaccine rollout exposes rich-poor divide
-
-
-
-
 By Rael Ombuor
  and 
 Max Bearak
- 
-April 3, 2021 at 4:00 a.m. EDT
+ April 3, 2021 at 4:00 a.m. EDT
 NGONG, Kenya — The two schoolteachers had heard the vaccine was first come, first served and had been waiting in front of the hospital since 5 a.m. They had been given numbers in line and let their thoughts drift ahead to the now-imminent moment for which they’d waited months.
 Around noon, there was a sudden hubbub. A nurse appeared at the hospital’s gate and said the doses were finished. A crowd gathered. Some said they had seen the nurses sneaking in people through a back door, the teachers recalled later.
 Amid the ensuing shouts from the crowd were denunciations of a more insidious plague here in Kenya: public services that work for those with connections and money and relegate everyone else to the back of the line.
@@ -2605,8 +2363,6 @@ Juliana Nderitu, the other teacher, said she had tried booking appointments onli
 In a news conference Thursday, Kenyan Health Minister Mutahi Kagwe appealed for patience.
 “We are happy that there is great demand for the vaccine from Kenyans,” Kagwe said. “Let us not panic or become anxious. The government will provide vaccines for all adults in Kenya in a phased approach.”
 As of Thursday, Kenya has administered first doses to just over 160,000 of its 54 million people, a relatively slow rate compared to other countries. Second-dose appointments are being given for May and June.
-
-
 The country’s health ministry says it aims to fully vaccinate half of the population by June 2022, relying primarily on Covax, although donations from wealthier countries are expected to pick up once their own vaccination campaigns slow down.
 Late last month, amid a surge in case numbers and dwindling hospital space that centered on Nairobi, the capital, the government reimposed domestic movement restrictions and expanded the hours of a curfew that has been in place for more than a year. For five months last year, Kenya closed its borders, but for now, international travelers can still come and go.
 Like in last year’s lockdown, however, the government has offered little support to the vast majority of Kenyans who work in the informal sector and whose ability to work is severely curtailed by the restrictions, hardening a belief among many that the government’s precautionary measures are mainly meant to protect the wealthy while leaving the poor even more vulnerable.
@@ -2628,8 +2384,6 @@ https://www.washingtonpost.com/world/2021/04/03/kenya-vaccine-inequality/
 Дата: 13.04.2021
 Заглавие: Transcript: Coronavirus: Vaccines & Variants with Céline Gounder, MD & Julie Morita, MD
 By Washington Post Live
-
-
 April 13, 2021 at 2:05 p.m. EDT
 MS. WINFIELD CUNNINGHAM: Good morning, and welcome to Washington Post Live. I’m Paige Winfield Cunningham, a health policy reporter here at the Post and author of The Health 202 newsletter, and this morning, I’m delighted to welcome two medical experts here to be with us today. They are Dr. Julie Morita--and she’s the executive vice president of the Robert Wood Johnson Foundation--and Dr. Céline Gounder, clinical assistant professor of medicine and infectious diseases at New York University and CEO of Just Human Productions. Both Dr. Morita and Dr. Gounder served on the Biden-Harris Transition COVID-19 Advisory Board.
 Thank you both so much for joining us today.
@@ -2733,8 +2487,6 @@ https://www.washingtonpost.com/washington-post-live/2021/04/13/transcript-corona
 Источник: Washington Post
 Дата: 16.04.2021
 Заглавие: AstraZeneca is the ‘workhorse’ for vaccinating the world. Now, the world is uneasy over clot risks.
-
-
 By Danielle Paquette, 
 Emily Rauhala, 
 Loveday Morris and Liz Sly
@@ -2797,8 +2549,6 @@ https://www.washingtonpost.com/world/astrazeneca-vaccine-covax-world-clots/2021/
 Источник: Washington Post
 Дата: 25.04.2021
 Заглавие: In the Venezuelan ‘Workers’ Paradise,’ very different pandemics for the haves and have-nots
-
-
 By Ana Vanessa Herrero
 and Anthony Faiola
 April 25, 2021 at 5:00 a.m. EDT
@@ -2851,8 +2601,6 @@ https://www.washingtonpost.com/world/2021/04/25/coronavirus-venezuela-socialist-
 Источник: Washington Post
 Дата: 27.04.2021
 Заглавие: 123 Brazil rejects Russia’s Sputnik V vaccine, citing safety concerns
-
-
 By Erin Cunningham and Robyn Dixon4:16 p.m.
 Brazilian health regulators have issued a scathing rebuke of Russia’s Sputnik V coronavirus vaccine, rejecting the shot’s approval in a decision late Monday that could affect its use elsewhere in the world.
 The ruling from Brazil’s Health Regulatory Agency, or Anvisa, cited a range of concerns with the vaccine’s development and production, including what it said was a lack of quality control and efficacy data, as well as little if any information on the shot’s adverse effects.
@@ -2865,8 +2613,6 @@ https://www.washingtonpost.com/world/2021/04/27/sputnik-vaccine-brazil-russia-co
 Источник: Washington Post
 Дата: 27.04.2021
 Заглавие: Our generation’s ‘Sputnik moment’ has finally arrived
-
-
 By James Hohmann
 Columnist |
 April 27, 2021 at 6:06 p.m. EDT
@@ -2891,8 +2637,6 @@ https://www.washingtonpost.com/opinions/2021/04/27/our-generations-sputnik-momen
 Источник: Washington Post
 Дата: 28.04.2021
 Заглавие: Russia reaches deal for Indian companies to produce Russia’s Sputnik V vaccine starting in May
-
-
 By Robyn Dixon11:38 a.m.
 MOSCOW — Russia has reached a deal for Indian pharmaceutical companies to manufacture as many as 850,000 doses of its vaccine Sputnik V, beginning next month, the Kremlin announced Tuesday, as India faces a devastating surge in covid-19 cases.
 Russian President Vladimir Putin spoke to Indian Prime Minister Narendra Modi on Tuesday and pledged to send more than 22 tons of aid, including ventilators, medical equipment and medicines.
@@ -2900,10 +2644,6 @@ A Kremlin readout of the call said Modi “warmly thanked” Putin, adding that 
 The Kremlin press services listed the items being sent as including 20 pieces of equipment for producing oxygen, 75 lung ventilators, 150 medical monitors and 200,000 packets of medicine.
 The Russian Direct Investment Fund which backs and markets Sputnik V said Monday that Bangladesh had become the 62nd country to register the vaccine. The European Medicines Agency is conducting a rolling review of Sputnik V that could give E.U. countries the green light to use it.
 Mexican Foreign Minister Marcelo Ebrard announced that country would produce the vaccine domestically during a trip to Moscow on Monday.
-
-
-
-
 https://www.washingtonpost.com/nation/2021/04/28/coronavirus-covid-live-updates-us/
 
 
@@ -2911,8 +2651,6 @@ https://www.washingtonpost.com/nation/2021/04/28/coronavirus-covid-live-updates-
 Источник: Washington Post
 Дата: 28.04.2021
 Заглавие: Filipinos feel helpless against latest coronavirus surge
-
-
 People with covid-19 are dying after being turned away from hospitals in the Philippines
 Many in the Philippines blame a lackluster effort by the government for the shortage of vaccines and hospital beds. (Regine Cabato, Jason Aldag/The Washington Post)
 By Regine Cabato
@@ -2950,13 +2688,10 @@ https://www.washingtonpost.com/world/2021/04/28/filipinos-feel-helpless-against-
 Источник: Washington Post
 Дата: 28.04.2021
 Заглавие: India’s coronavirus death toll tops 200,000 as infections surge and anger grows
-
-
 By Erin Cunningham
  and 
 Antonia Noori Farzan
- 
-April 28, 2021 at 12:23 p.m. EDT
+ April 28, 2021 at 12:23 p.m. EDT
 India on Wednesday reported another record number of coronavirus cases and deaths, nudging its official covid-19 death toll past 200,000 as the virus coursed through urban centers and out into rural areas, leaving broken families and communities in its wake.
 In a new global record, Indian authorities logged 360,960 infections in a 24-hour period, bringing the total number of cases to more than 17.9 million. India also reported 3,293 deaths, even as experts warned that many virus fatalities were going uncounted.
 Coronavirus has crushed India’s health system. Patients are on their own.
@@ -2971,28 +2706,20 @@ India’s hospitals have faced severe oxygen supply shortages as the devastating
 “The state is not available anywhere,” political activist Sadaf Jafar said in an interview with The Washington Post.
 On Wednesday, just 10 intensive care beds were available for covid-19 patients in the capital, New Delhi, a city of more than 17 million people, according to a government dashboard.
 The government pledged to mobilize resources, including from the armed forces, which said it was tapping into its own oxygen supply and pulling retired medical personnel back into service to assist with the crisis. Police in Uttar Pradesh, India’s most populous state, said they arrested dozens of people for selling oxygen cylinders and medicine used to treat covid-19 on the black market.
-
-
 But in many places, that help may be coming too late. In some cities, including Delhi, makeshift crematoriums have been erected to cope with the growing number of dead. And over the past week alone, according to official figures, more than 2,000 infected people have died in India every day. That number is widely understood to be an underestimate: Journalists in the state of Gujarat found that more than 90 cremations and burials had taken place under coronavirus protocols in the past two days, but the state government’s data showed only eight deaths during that same period.
 “Cremations are now being held on pavements as bodies pile up,” India’s the Wire news website reported Tuesday from the city of Nashik, where last week an oxygen leak at a hospital killed 22 coronavirus patients.
 The Scroll, another independent news website, reported that “people are dropping dead like flies” in villages in Uttar Pradesh, as the virus spreads to more rural regions of the country.
 “In villages, people are dying of fever and breathlessness even before they can be tested for the disease,” the site reported.
 Local media outlets reported Tuesday that the wave of fatalities has even reached Modi’s family, as the prime minister’s aunt died at the age of 80 while undergoing treatment at a hospital.
-
-
 The World Health Organization said Tuesday that multiple virus variants now circulating in India were accelerating the outbreak. At least two, which were first detected in Britain and South Africa, have been linked with higher rates of transmission.
 One variant identified in India in December, known as B.1.617, has several mutations associated with increased transmissibility, the WHO said, but it was unclear if that variant was responsible for the surge.
 Before the stunning increase in cases, the Indian government had described the virus as largely defeated and relaxed public health measures and allowed large crowds to gather for religious festivals and political rallies.
-
-
 Devotees take dips in the Ganges River during the Kumbh Mela festival in Haridwar, India, on April 12, 2021. (Karma Sonam/AP)
 India plans to open up vaccinations to everyone over the age of 18 on May 1, but a government website allowing people to preregister for appointments crashed soon after those slots opened up Wednesday.
 Outrage at the government over the crisis was growing. The Indian Medical Association issued a scathing statement describing Modi as a “failed prime minister” and “super spreader” who held massive political rallies instead of strengthening the country’s health-care infrastructure.
 On Wednesday, following a public outcry, authorities scrapped plans to use a luxury hotel in New Delhi as a coronavirus facility to treat India’s high-court judges.
 Government officials said the day before that they had reserved 100 rooms at the Ashoka Hotel to treat judges, court staff and their relatives, even as other hospitals in the city have turned away desperate and dying patients.
 “Who is responsible for the oxygen and vaccine shortages? Where is the Indian state?” read a column posted Tuesday on the Wire.
-
-
 https://www.washingtonpost.com/world/2021/04/28/india-coronavirus-record-cases-delhi/
 
 
@@ -3000,8 +2727,6 @@ https://www.washingtonpost.com/world/2021/04/28/india-coronavirus-record-cases-d
 Источник: Washington Post
 Дата: 30.04.2021
 Заглавие: India’s coronavirus surge creates vaccine supply turmoil far beyond its borders
-
-
 By Adam Taylor
 April 30, 2021 at 7:08 p.m. EDT
 As coronavirus cases surged this month in India, the country that houses the world’s largest vaccine manufacturer, the government began to pause vaccine exports.
@@ -3019,8 +2744,6 @@ Outside India, the profound impact of the export ban suggests other manufacturin
 “The Serum Institute of India is a terrific contract manufacturer of vaccines,” he said. “It is not sufficient to meet global needs.”
 In a statement, Gavi, a vaccine alliance that backs Covax, said further delays in May would be a “significant short-term challenge” for Covax.
 In total, 49 million doses had been distributed through Covax, of which 29 million were from Serum, the statement said.
-
-
 People wait to receive the AstraZeneca coronavirus vaccine at in Blantyre, Malawi, on March 29. (Thoko Chikondi/AP)
 Officials from the African Union, which also arranged supplies from Serum, have expressed alarm, with top health official John Nkengasong saying this month that the export controls could be “catastrophic” for the continent.
 Nkengasong, who heads the Africa Centers for Disease Control and Prevention, said this week that what was happening in India could eventually happen in Africa. “We are living in a world that is extremely uncertain now,” he told reporters in Nairobi on Thursday.
@@ -3031,8 +2754,6 @@ But with new cases in India still soaring — reaching another global record of 
 In a bid to beat back infection rates, anyone over 18 will be eligible for vaccinations across India starting Saturday. Several Indian states have said they do not have enough supplies for the large expansion of eligibility.
 Serum has said it is able to produce between 60 million and 70 million doses per month. Bharat Biotech, another Indian company that has developed a vaccine called Covaxin, is producing 10 million per month.
 Adar Poonawalla, Serum’s chief executive, has blamed the slow pace of vaccine production in India on U.S. export controls on raw materials, calling on President Biden to “truly unite in beating this virus” in a tweet this month.
-
-
 Employees at a Serum Institute lab in Pune, India, on Nov. 30. (Francis Mascarenhas/Reuters)
 International organizations, including Gavi and others, have also called on countries to lift restrictions on exports and release excess doses.
 The United States has pledged to share its supplies of AstraZeneca, not yet approved domestically, with foreign nations. Twenty million doses are expected to go to India. The Indian government has also reached an agreement to obtain 5 million doses of Sputnik V, a Russian-backed vaccine.
@@ -3048,8 +2769,6 @@ https://www.washingtonpost.com/world/2021/04/30/india-coronavirus-vaccine-supply
 Источник: Washington Post
 Дата: 30.04.2021
 Заглавие: Bolsonaro has insulted much of the world. Now Brazil needs its help.
-
-
 By Terrence McCoy
 April 30, 2021 at 6:00 a.m. EDT
 RIO DE JANEIRO — Two developing countries, enormous in population and geography, in the grip of devastating coronavirus outbreaks. Hospitals running out of supplies. Patients turned away. A new variant everywhere. Outside help desperately needed.
@@ -3094,8 +2813,6 @@ https://www.washingtonpost.com/world/2021/04/30/brazil-coronavirus-bolsonaro-ind
 Источник: Washington Post
 Дата: 30.04.2021
 Заглавие: White House is split over how to vaccinate the world
-
-
 By Dan Diamond
 and 
 Jeff Stein
@@ -3155,8 +2872,6 @@ https://www.washingtonpost.com/health/2021/04/30/biden-administration-debates-wa
 Источник: Washington Post
 Дата: 10.05.2021
 Заглавие: Transcript: Coronavirus: Vaccines & Variants with Vin Gupta, MD, and Peter Hotez, MD, PhD
-
-
 By Washington Post Live
 May 10, 2021 at 6:36 p.m. EDT
  DR. HOTEZ: Well, you know, my colleagues at the Center for Countering Digital Hate estimate around 58 million followers on these anti-vaccine group sites, social media sites--so it's become massive. And we now know that the Russian Government has been piling on with this systematic program of what's being called weaponized health communication that is specifically working to discredit COVID-19 vaccines.
@@ -3179,15 +2894,13 @@ https://www.washingtonpost.com/washington-post-live/2021/05/10/transcript-corona
 Источник: Washington Post
 Дата: 17.05.2021
 Заглавие: India’s coronavirus vaccination drive is faltering just when the country needs it most
-
-
 By Joanna Slater
 May 17, 2021 at 3:00 a.m. EDT
 NEW DELHI — As India confronts a devastating coronavirus outbreak where thousands are dying each day, the country desperately needs to vaccinate its population as soon as possible.
 Yet the vaccine drive is stumbling just when it is most crucial.
 Over the past six weeks, the number of vaccinations per day has fallen by about half, from a high of 4.2 million per day on April 2 to 2 million on Thursday.
 Vaunted as the largest in the world, India’s vaccine program is being hobbled by supply shortages and an abrupt shift in procurement policy that appears to be without parallel. The woes of the inoculation drive are especially striking given India’s unique advantages, including a large vaccine industry and a record of mass immunization campaigns.
-       
+    
 Priyanka Chopra Jonas's Indian restaurant, SONA, in New York City has dedicated a dish to covid-19 relief efforts in India. (Zoeann Murphy/The Washington Post)
 In an Indian city, obituaries reveal missing coronavirus deaths and untold suffering
 Just months ago, public health experts were counting on India to play a crucial role in supplying coronavirus vaccines to the developing world. The government was so confident of its ability to meet domestic demand for vaccines that it allowed more than 60 million doses to be exported or donated to other countries between January and March.
@@ -3198,8 +2911,6 @@ The inability to accelerate the vaccination drive in the short term means that i
 A spokeswoman for India’s Health Ministry and a senior official involved in the vaccination effort did not respond to requests for comment on the slowing inoculation drive.
 Vaccinating India’s more than 1.3 billion people was always going to be a monumental task. But experts say that India’s present predicament is the product of miscalculations and optimistic predictions by policymakers and manufacturers.
 Serum Institute of India, one of the largest vaccine makers in the world, struck deals early in the pandemic to make hundreds of millions of doses for India and the developing world. In an interview with The Washington Post last year, Adar Poonawalla, the firm’s chief executive, said the company hoped to boost its production of the AstraZeneca vaccine to 80 million to 100 million doses a month by the start of 2021.
-
-
 That target has remained elusive. Serum’s current monthly production of the AstraZeneca vaccine hovers around 65 million to 70 million doses a month. Poonawalla has cited shifting reasons for the company’s inability to increase production further, including a lack of funds and a fire that broke out in January at a newly constructed building. (At the time of the fire, he had said it would not affect the manufacturing of coronavirus vaccines.)
 The fire pushed back the ramping up of production by “a few months,” said a spokesman for Serum Institute in written responses to questions, commenting on the condition of anonymity to adhere to company policy. He did not cite previous curbs on exports of raw materials by the United States as a factor affecting the production of the AstraZeneca vaccine, something Poonawalla implied in a tweet last month. The company now says it will start manufacturing 100 million such doses a month in July.
 Serum Institute and Bharat Biotech, the maker of a locally developed vaccine called Covaxin, were probably too confident, said K.V. Balasubramaniam, the former chief executive of another Indian vaccine maker. “There would be a tendency for these companies to exaggerate their capabilities.”
@@ -3209,8 +2920,6 @@ In India's surge, a religious gathering attended by millions helped the virus sp
 India did not place its first purchase orders — for just 16 million vaccines — until January. Its first large-scale purchase came in March, when it ordered 100 million doses from Serum Institute and 20 million from Bharat Biotech. Late last month it ordered 160 million doses from the two companies to be delivered by July.
 Instead of placing large advance orders, the government is “buying vaccines like monthly groceries,” wrote Partha Mukhopadhyay, a senior fellow at the Center for Policy Research in Delhi, last week.
 What’s more, India has flung open eligibility for vaccines without a concomitant increase in supply. Last month, the government announced that everyone 18 and older — a population of roughly 950 million — would become eligible for inoculation.
-
-
 The move was accompanied by a major policy shift. Half of the vaccine supply is being reserved for the national government and will go toward vaccinating people 45 and older. The other half would be sold at higher prices to state authorities and private players to vaccinate people younger than 45.
 The result has been acute shortages and supply breakdowns that have led several states to suspend altogether the vaccination drive for people younger than 45. In Delhi, city authorities shut down certain vaccination centers after their supply of Covaxin, the vaccine produced by Bharat Biotech, ran out.
 Manish Sisodia, a senior Delhi official, made public a letter from Bharat Biotech chief executive Krishna Ella in which he wrote that the company was unable to provide additional supplies to the city. “We are unable to keep up with demand,” Ella wrote. Spokespeople for Bharat Biotech did not respond to requests for comment.
@@ -3229,8 +2938,6 @@ https://www.washingtonpost.com/world/2021/05/17/india-coronavirus-vaccines-suppl
 Источник: Washington Post
 Дата: 20.05.2021
 Заглавие: Russia’s Putin gets his Sputnik V booster shot and takes part in testing of a nasal vaccine spray
-
-
 By Robyn Dixon10:15 a.m.
 Russian President Vladimir Putin attends a cabinet meeting on Nov. 24 via video conference in the Bocharov Ruchei residence in the Russian Black Sea resort of Sochi. (Mikhail Metzel/AP)
 MOSCOW — Russian President Vladimir Putin took part in the testing of a new, nasal form of Russia’s Sputnik V coronavirus vaccine, several days after getting a booster shot following a fall in his antibody levels.
@@ -3252,8 +2959,6 @@ https://www.washingtonpost.com/nation/2021/05/20/coronavirus-covid-live-updates-
 Источник: Washington Post
 Дата: 21.05.2021
 Заглавие: Some tiny countries hope for a big boost from vaccine tourism
-
-
 Landlocked San Marino hopes that its surplus vaccine supply will be an enticing draw for tourists. (Davide Bertuccio for The Washington Post)
 By Antonia Noori Farzan
 May 21, 2021 at 11:41 a.m. EDT
@@ -3282,8 +2987,6 @@ https://www.washingtonpost.com/world/2021/05/21/vaccine-tourism-san-marino-maldi
 Источник: Washington Post
 Дата: 22.05.2021
 Заглавие: 101 Kremlin warns that ‘discrimination will become inevitable’ for unvaccinated Russians
-
-
 By Jennifer Hassan
 and Kim Bellware
 May 22, 2021 at 6:00 p.m. EDT
@@ -3303,16 +3006,10 @@ https://www.washingtonpost.com/nation/2021/06/22/coronavirus-covid-live-updates-
 Источник: Washington Post
 Дата: 25.05.2021
 Заглавие: Latin America crosses a bleak milestone
-
-
 By Ishaan Tharoor
 Columnist
 May 25, 2021 at 12:01 a.m. EDT
-
-
 You’re reading an excerpt from the Today’s WorldView newsletter. Sign up to get the rest, including news from around the globe, interesting ideas and opinions to know, sent to your inbox every weekday.
-
-
 People gather near a shrine in Rio de Janeiro on Sunday that marks the number of covid-19 deaths. The coronavirus has claimed more than 1 million lives in Latin America and the Caribbean, with nearly half of those deaths in Brazil. (Mario Tama/Getty Images)
 As of Friday, the coronavirus-related death toll in Latin America and the Caribbean surpassed 1 million people, according to the U.N. Pan American Health Organization. Almost 90 percent of these deaths took place in five major countries in the region — Brazil (around 44 percent), Mexico (22 percent), Colombia (8 percent), Argentina (7 percent) and Peru (nearly 7 percent). In some of these countries, the official number of coronavirus deaths may be only a fraction of the real total. But the overall trend lines for Latin America have been grim, with its economies ravaged and a paltry number of vaccinations administered.
 In the United States, reported coronavirus-related cases and deaths dropped to their lowest levels in nearly a year, while supply for vaccines now seems to outweigh demand, with tens of millions of Americans refusing to get vaccinated even as authorities woo them with promises of free alcohol or cash prizes.
@@ -3327,8 +3024,6 @@ As a whole, Latin America has been dogged by vaccine supply shortages and slow r
 The poorest countries lag furthest behind. “Vaccination rates in the region currently overlap fairly predictably with countries’ national income per capita,” noted Foreign Policy last week. “According to data compiled by Reuters, high-income Chile has given at least one shot to more than 49 percent of its population; upper-middle-income Argentina and Brazil have given more than 18 percent and 17 percent, respectively; and lower-middle-income Nicaragua and Honduras have given more than 2.5 percent and 1 percent, respectively.”
 One notable positive trend can be found in Mexico, where critics had lambasted the government for being ill-prepared in the face of a hideous surge in cases earlier this year. On Sunday, though, the country’s Health Ministry reported the lowest daily death toll in over a year.
 “Scientists and government officials say the pandemic seems to be abating — at least temporarily — because of increasing levels of immunity on both sides of the U.S.-Mexico border,” wrote my colleague Mary Beth Sheridan last week. “As much as half the Mexican population has developed antibodies because the coronavirus circulated so widely over the past year. In addition, U.S. vaccinations appear to be blocking the southward spread of the virus.”
-
-
 https://www.washingtonpost.com/world/2021/05/25/latin-america-covid-deaths/
 
 
@@ -3336,8 +3031,6 @@ https://www.washingtonpost.com/world/2021/05/25/latin-america-covid-deaths/
 Источник: Washington Post
 Дата: 26.05.2021
 Заглавие: Influencers say they were offered money to discredit the Pfizer vaccine. In France, some suspect Russia is behind it.
-
-
 By Jennifer Hassan
  and 
 Rick Noack
@@ -3366,8 +3059,6 @@ Other influencers — including German journalist Mirko Drotschmann, who has alm
 Earlier this month, Drotschmann tweeted he had been asked to join an online “information campaign,” with organizers inviting him to share supposedly leaked documents about deaths after Pfizer-BioNTech vaccinations. He told his followers the chief executive of the company appeared to be based in Moscow, but he did not name the company or people who had contacted him.
 Although it is being used in multiple countries, Russia’s Sputnik V vaccine has yet to receive approval from the European Union’s medicines agency, which officials say is the result of a lack of adequate information. Last month, Brazil’s Health Regulatory Agency rejected the vaccine, listing significant safety concerns that include a lack of quality control and an absence of details regarding the vaccine’s side effects.
 Kremlin spokesman Dmitry Peskov said that Russia was willing to give Brazil additional data if required.
-
-
 https://www.washingtonpost.com/world/2021/05/26/influencers-offered-money-pfizer-discredit-russia/
 
 
@@ -3375,8 +3066,6 @@ https://www.washingtonpost.com/world/2021/05/26/influencers-offered-money-pfizer
 Источник: Washington Post
 Дата: 29.05.2021
 Заглавие: Vietnam detects highly contagious new coronavirus variant as infections surge
-
-
 Variant is a mix of coronavirus strains first detected in the United Kingdom and India, country’s health minister says
 A man sits behind a barrier inside a quarantine area in Hanoi on May 26. (Luong Thai Linh/EPA-EFE/REX/Shutterstock)
 By Katerina Ang
@@ -3399,8 +3088,6 @@ Singapore and Taiwan, which had effectively eliminated transmission of the coron
 Many countries that managed the pandemic with “non-pharmaceutical interventions are finding that more transmissible variants are more difficult to control with these measures,” Pollack said. “This is the biggest challenge that [Vietnam is] facing since covid-19 came onto the scene.”
 Vietnam is operating one of the slower inoculation programs in the world, with fewer than 0.1 percent of its 103 million residents having been fully vaccinated as of Friday. It has approved the Oxford-AstraZeneca and Sputnik V shots and recently signed a deal to buy more than 30 million Pfizer-BioNTech vaccine doses. Vietnam is also developing its own Nanocovax vaccine, whose final-stage trials are set for completion in the second half of the year.
 Hanoi has a rocky relationship with Beijing and, unlike many other middle income nations, it has not approved the use of Chinese-developed vaccines.
-
-
 https://www.washingtonpost.com/world/2021/05/29/vietnam-hybrid-variant-covid-virus/
 
 
@@ -3408,262 +3095,96 @@ https://www.washingtonpost.com/world/2021/05/29/vietnam-hybrid-variant-covid-vir
 Источник: Washington Post
 Дата: 05.06.2021
 Заглавие: Putin’s daughter steps into the spotlight. But no one will acknowledge she’s Putin’s daughter.
-
-
-
-
-
-
 Katerina Tikhonova, deputy director of the Institute for Mathematical Research of Complex Systems at Moscow State University and one of the widely acknowledged daughters of Russian President Vladimir Putin, is seen on screens as she participates in the St. Petersburg International Economic Forum on June 4. (Evgenia Novozhenina/Reuters)
 By Isabelle Khurshudyan and Mary Ilyushina 
 June 5, 2021 at 7:45 a.m. EDT
-
-
 ST. PETERSBURG — Russia's premier business conference featured a panelist, Katerina Tikhonova, who was identified as the deputy director for the Institute for Mathematical Research of Complex Systems at Moscow State University.
-
-
 One significant detail was left out: She’s widely acknowledged outside official circles as President Vladimir Putin’s daughter.
-
-
 The Russian leader has never publicly identified his children other than to say he has two daughters. That makes for an odd wink-and-nod scenario every time they appear. Everyone knows they are Putin’s children, but few dare say so and go against Kremlin policy.
-
-
 This dance could become increasingly tricky, however. Tikhonova and Putin’s other media-cited daughter, genetics researcher Maria Vorontsova, have gradually boosted their public profiles.
-
-
 They’re not directly involved in politics, but they hold influential positions in businesses that have close ties to state enterprises.
-
-
 The 34-year-old Tikhonova spoke at a session about litigating international investment disputes via video link at the St. Petersburg International Economic Forum, Russia’s answer to the annual business conference in Davos, Switzerland.
-
-
 She was broadcast on big screens above a roundtable that featured members Russia’s elite: heads of Russia’s top universities; Russia’s justice minister; and the head of the country’s sovereign wealth fund, Kirill Dmitriev.
-
-
 Her relationship to Putin was not mentioned at any time. The only hint was the moderator’s formal reference to her by her first name and patronymic: Katerina Vladimirovna.
-
-
 Putin’s ex-wife returns to the spotlight with a dashing young husband and a fancy French villa
-
-
 Putin has long preferred intense secrecy when it comes to his family. He had never confirmed the identities of his daughters, even though they have been reported by Russian independent and foreign media outlets. But their status and growing influence in Russia’s scientific and business communities are undeniable.
-
-
-
-
 Both Tikhonova and Vorontsova are the daughters of Lyudmila Putin, who was married to Putin for three decades before they divorced in 2013. She stays out of the spotlight and resides in France. (The Russian investigative news outlet Proekt reported that Putin has a “secret” third daughter, a teenager who he fathered with a lover, but the girl’s relationship with Putin has not been clearly established.)
-
-
 Since 2018, both of his alleged daughters — Vorontsova has been reported to be the eldest — have been appearing on state television in special reports about their respective projects. (Vorontsova is involved in state-funded projects dealing with genetics.) The channels have mentioned their connection to Putin.
-
-
 The approach runs counter to other countries, where the children of world leaders often are in the spotlight. Former president Donald Trump’s children had influential roles in his campaign and administration. President Biden’s son Hunter became a top target for Trump and his allies during the 2020 presidential campaign.
-
-
 Biden previews tough talk with Putin at Memorial Day event
 At a ceremony in Delaware on May 30, President Biden said he plans to tell Russian leader Vladimir Putin the United States won’t “let him abuse” human rights. (The Washington Post)
 In a six-minute speech at Friday’s panel, Tikhonova advocated for increased investment in what she called “breakthrough technologies,” alluding to her other project, the Innopraktika Fund, which says its mission is to find business applications for complex scientific developments. Members of its board include heads of Russia’s key state oil and gas enterprises.
-
-
 When Tikhonova was giving her closing remarks, moderator Nikolay Kropachev, the dean of St. Petersburg State University, interjected with a joke, only to be quietly shushed by the justice minister, who told him not to interrupt her.
-
-
 Putin rarely even makes vague references to his children. An exception was last year, when, in announcing the approval of Russia’s first approved coronavirus vaccine, Sputnik V, Putin said one of his daughters had taken the vaccine herself. He didn’t refer to her by name.
-
-
 Alexei Venediktov, editor in chief of the Echo of Moscow radio station, said at the time that Putin was referencing Tikhonova, who has close ties to the vaccine’s chief lobbyist, Dmitriev. Tikhonova and Dmitriev’s wife, Natalia Popova, work at the Innopraktika Fund together and were university classmates.
-
-
 Popova was among the first to be vaccinated with Sputnik V, according to a state television report, and got Tikhonova interested in the jab, Russia’s independent Open Media outlet said. That might have helped secure Putin’s support for it.
-
-
 Influencers say they were offered money to discredit the Pfizer vaccine. In France, some suspect Russia is behind it.
-
-
 Putin has dodged questions about the identity of his daughters in years past, citing security concerns. They were both born in the 1980s, when Putin was a KGB spy.
-
-
 In 2015, at his annual end-of-year marathon news conference, Putin was asked about the truthfulness of a Reuters news agency report that Tikhonova is his daughter. He did not confirm it, but said his daughters “are not involved in business or politics.”
-
-
 “My daughters live in Russia and studied only in Russia. I am proud of them,” he said. “They speak three foreign languages fluently. I never discuss my family with anyone.”
-
-
 He added: “Every person has a right for their fate, they live their own life and do it with dignity.”
-
-
 Then, in 2019, at that year’s end-of-year news conference, Putin was again asked about the identity of his daughters. BBC Russia reporter Farida Rustamova told Putin that both Tikhonova and Vorontsova had become more involved in Russia’s business scene, and his dodge in 2015 no longer applied.
-
-
 “Your old friends, managers of state companies, are helping these two women with their business operations,” Rustamova said. “We can see that television channels have started showing them very often. Everyone knows them and what they look like today. This is an open secret.”
-
-
 “Here is my question,” she continued. “Tell me, please, when will you admit that they are your children, and when will they open themselves to society, just like the children of other world leaders?”
-
-
 Putin again did not utter the name of either woman.
-
-
 “You just asked a question, related to business. You mentioned one woman, you mentioned another,” he said. “You just stated some facts. That’s not enough. Dig around a bit more, and you’ll understand what business they have and whether they have any at all and who owns what and who helps whom.”
-
-
 https://www.washingtonpost.com/world/europe/putin-daughter-russia-secret/2021/06/05/a5524c98-c2eb-11eb-89a4-b7ae22aa193e_story.html
-
-
-
 
 #91
 Источник: Washington Post
 Дата: 27.06.2021
 Заглавие: Now booming on Moscow’s black market: Fake vaccine certificates
-
-
-
-
-
-
 June 27, 2021 at 6:50 p.m. EDT
-
-
 MOSCOW — It took just a few hours for fraudsters to act after Moscow's mayor announced this month that coronavirus vaccinations were compulsory for most of the city's service sector employees.
-
-
 Accounts advertising the availability of fake coronavirus vaccination certificates suddenly appeared as social media followers of Russians who identified as working in restaurants or bars.
-
-
 A new black market was born with a deep potential clientele: the many Russians still hesitant to be vaccinated even amid a surge in coronavirus cases.
-
-
 One bartender, who provided The Washington Post with a copy of his private messages on Instagram, sent a query to one account about the cost of a fraudulent vaccination certificate.
-
-
 The response was immediate: The price was the equivalent of about $25, and the bartender just needed to provide his personal information. The bartender spoke on the condition of anonymity to discuss engaging in an illegal operation.
-
-
 The increase in the number of people selling bogus vaccination certificates comes as Moscow has ordered 60 percent of workers who interact with the public — teachers, taxi drivers, salespeople and others — to get vaccinated or get different jobs. Their employers are subject to hefty fines for noncompliance.
-
-
 The new rules, which take effect Monday, also require that restaurants and bars limit admission to people with a QR code confirming their vaccination or proof of a negative PCR coronavirus test within the previous three days. Moscow authorities have further warned that hospitals will deny routine medical care to the unvaccinated.
-
-
 A vaccination certificate on Gosuslugi, Russia’s public services portal, in Moscow on June 21. Police have cracked down on the selling of fake coronavirus vaccination certificates amid the mayor’s announcements of compulsory shots for service sector workers. (Alexander Zemlianichenko/AP)
 The extraordinary measures — Moscow now has among the strictest vaccine rules — flow from Russia’s inability to gets its arms around the pandemic despite two homegrown vaccines, led by Sputnik V, that are widely available and free. Russia’s latest coronavirus wave also shows how vaccine hesitancy threatens to prolong the pandemic worldwide.
-
-
 Should a coronavirus vaccine be mandatory? In Brazil’s most populous state, it will be.
-
-
 Just 15 percent of Muscovites had been vaccinated, Mayor Sergei Sobyanin said on June 16. The vaccine rate for all of Russia is lower at 11.5 percent — lower than anywhere else in Europe except North Macedonia, according to Our World in Data. The United States has fully vaccinated more than 45 percent of its population.
-
-
 But Moscow’s push to vaccinate its citizens has left many bitter.
-
-
 Some people say they are more fearful of being vaccinated than they are of contracting the coronavirus. That makes buying a fake vaccination certificate an attractive option to try to beat the system.
-
-
 “I’ve been partying since last summer, and I’ve been interacting with a lot of people, including those who actually had covid-19,” said Anna, a 23-year-old university student who spoke on the condition of only using her surnameto speak candidly about the issue. She had considered buying a false vaccination certificate, then decided against it.
-
-
 “I didn’t get sick. I don’t have antibodies. So, I just made a conclusion that maybe I’m just not prone to getting it. Why should I get the vaccine if my body works well without it?” she added. “I just don’t trust it that much.”
-
-
 No vaccine, no vacation
 Sobyanin said that about 90 percent of the new Moscow cases are the Delta variant. Infections in the city of about 12 million people have spiked to more than 8,500 per day this month, according to Russia’s coronavirus headquarters, and 114coronavirus-related deaths were reported Sunday in Moscow, a single-day record for the city.
-
-
 The “explosive growth,” as Sobyanin put it, has led to sweeping new restrictions that will make it nearly impossible for the unvaccinated to work in most places or eat in any restaurants.
-
-
 More than a dozen regions across Russia have followed Moscow’s lead in imposing some mandatory vaccination standards. Resorts in Sochi, the popular summer destination on the Black Sea, will be closed to unvaccinated vacationers as of Aug. 1.
-
-
 By mid-June, there were 500 newly registered domain names for selling fake vaccination certificates, according to Forbes. Certificates also are sold on the messaging app Telegram and on Dark Web forums.
-
-
 Some of the accounts purporting to sell the certificates have been deleted ahead of a promised crackdown by authorities.
-
-
 Russia unveils coronavirus vaccine ‘Sputnik V,’ claiming breakthrough in global race before completing final testing
-
-
 Moscow tried to foil counterfeiters by insisting on registering vaccination certificates for QR codes — square bar code mazes of lines and boxes — rather than just a physical document.
-
-
 A worker from Russia’s emergency situations ministry, center, rides an escalator during a deep-clean operation at Leningradsky Railway Station in Moscow on June 24. (Andrey Rudakov/Bloomberg News)
 But, for a higher cost on the black market, even a vaccination certificate purchased illegally can be registered online.
-
-
 It works like this: The seller of the fake certificate contacts a medical professional with access to vaccine doses, according to a flight attendant who is in the process of obtaining a fake certificate. She spoke on the condition of anonymity to protect her employment.
-
-
 The medic then pours out a vial of the first dose and attaches the vial’s serial number to the client’s name in the state system, she said. Three weeks later, the same thing happens for the second shot. The vaccine certificate is then ready and is — for all intents and purposes — real.
-
-
 Anna, the university student, said that while she was thinking about buying a fake vaccination certificate, she’s fearful of getting caught now that the schemes are in the spotlight. Moscow authorities said they launched 24 criminal cases against suspected vendors of fake vaccination certificates and detained several couriers delivering them to clients.
-
-
 Russia’s Internet regulator, Roskomnadzor, said it shut down 150 webpages and accounts selling phony documents. The Russian Interior Ministry said the average price of a fake certificate was up to $66.
-
-
 Reluctant Russians
 Russia was the first country to authorize a coronavirus vaccine when it approved Sputnik V for mass use last August. But although the vaccine has been authorized by more than 60 countries, 62 percent of Russians polled in April said they would not take the vaccine, according to the Levada Center, an independent polling and research institute. Meanwhile, in a May survey by Levada, 55 percent of Russians who participated said they were not afraid of contracting the coronavirus.
-
-
 Russian actor Egor Beroev, speaking at a television awards ceremony on Tuesday, wore a yellow star on the lapel of his jacket and compared mandatory vaccinations to Nazi identification marks for Jewish people during World War II.
-
-
 “Today I woke up in a world where it has become an identification mark: Are you a citizen, or will you live in a reservation? Will you be able to go to venues and events? Will you enjoy all your rights and benefits?” Beroev said. “I have a question: How could we, the descendants of the [World War II] winners, allow this to happen?”
-
-
 A woman is seen with her mask pulled beneath her chin on a bus in Moscow on Tuesday. She sits next to a window with the message, “Keep fit! Mask and gloves are compulsory equipment of passengers.” (Pavel Golovkin/AP)
 A troubled public relations campaign is to blame for Russians’ distrust of vaccines, said Pavel Volchkov, the head of the Genome Engineering Lab at the Moscow Institute of Physics and Technology.
-
-
 Russia expected a surge for its Sputnik V vaccine. But many skeptics still stayed away.
-
-
 He pointed to Russian state television channels highlighting extremely rare adverse reactions for some individuals abroad who received the Oxford-AstraZeneca and Pfizer-BioNTech vaccines. Though those vaccines are not available in Russia, the news reporting contributed to a fear of all coronavirus vaccines, he said.
-
-
 Most of Russia’s coronavirus restrictions were lifted a while ago, and the few mandates that remained were rarely enforced. That created an environment in which people lacked the incentive to get vaccinated because they thought the coronavirus had been defeated, said the researcher Sergey Kolesnikov, who studies Russia’s health-care system at the Russian Academy of Sciences.
-
-
 “I had a wonderful proposal to only sell vodka and tobacco to people who show you the vaccine certificate,” Kolesnikov said. “That’s a joke, of course. But then more than 50 percent of the population would have to get vaccinated.”
-
-
 'Nihilism'?
 “Nihilism” is to blame for the surge in infections, contended Kremlin spokesman Dmitry Peskov, who, for a time last year, wore a protective badge called a “virus blocker” — a gadget with chlorine dioxide that purports to help shield against pathogens despite no scientific evidence that it works.
-
-
 Russian President Vladimir Putin himself has never appeared publicly with a face mask. One missed opportunity to boost trust in the vaccine was the secrecy around his vaccination in March. The 68-year-old Putin said he would get vaccinated, but no photos or videos of his being vaccinated were released. The Kremlin would not reveal even which of the Russian vaccines Putin received.
-
-
-
-
 People mostly without face masks walk in Moscow’s Red Square on June 24. (Alexander Zemlianichenko/AP)
 “There’s a trigger, especially among the younger generation here, that if the government says to do something, you need to do the opposite,” said Aleksey Lavrinenko, a 30-year-old Muscovite.
-
-
 In Russia, sick people often treat themselves. That’s not helping in the coronavirus fight.
-
-
 Lavrinenko got the Sputnik V vaccine the day after Sobyanin’s mandate, waiting in an hour-long line at a vaccination center in a luxury shopping center on Red Square. Like others, he received a free ice cream cone as a post-vaccination reward.
-
-
 Moscow also has tried encouraged people to get vaccinated with lotteries for a free car or an apartment.
-
-
 Lavrinenko said he got the vaccine only because he feared losing his restaurant job without it. Otherwise, he said, he probably would not have taken the shot.
-
-
 “It seems like the population here is split in half,” he said. “There are people who are saying that, ‘Yes, vaccination is needed.’ And the other half is like, ‘No, we’ll all die from it.’ There are people who just categorically don’t want to do it and won’t.”
-
-
 https://www.washingtonpost.com/world/europe/moscow-fake-vaccine-coronavirus/2021/06/26/0881e1e4-cf98-11eb-a224-bd59bd22197c_story.html
-
-
-
 
 #92
 Источник: Washington Post
@@ -3694,8 +3215,6 @@ Most of the call-in show focused on domestic issues, but Putin did address Russi
 On June 23, Russia said it used bombs and gunfire as “warning shots” to force the HMS Defender to leave waters it claims off the coast of the annexed Crimean Peninsula. The British denied they were fired on.
 Putin said the exchange was monitored by a U.S. reconnaissance plane and it was a test of Russian defenses.
 Asked about meeting with Ukrainian President Volodymyr Zelensky in the future, Putin replied, “Why meet with Zelensky now that he has fully ceded his country to external governance?” He added that Washington, Berlin and Paris decide “on key aspects of Ukraine’s everyday functioning.”
-
-
 https://www.washingtonpost.com/world/europe/putin-russia-call-show-vaccines/2021/06/30/bc15a082-d67e-11eb-b39f-05a2d776b1f4_story.html
 
 
@@ -3703,64 +3222,24 @@ https://www.washingtonpost.com/world/europe/putin-russia-call-show-vaccines/2021
 Источник: Washington Post
 Дата: 04.07.2021
 Заглавие: Third Olympian tests positive for coronavirus after arrival in Japan
-
-
-
-
 By Miriam Berger
 July 4, 2021 at 9:39 a.m. EDT
-
-
 A third visiting Olympian tested positive for the coronavirus upon arrival in Japan, the latest challenge for the strict health protocols meant to prevent the virus’s spread ahead of the Tokyo Games set to kick off later this month.
-
-
 A male rower in his 30s tested positive for the virus after landing at Tokyo’s Haneda airport Saturday night, Takashi Ikeda, an official in Nanto, where Serbia’s athletes are scheduled to train, told Reuters.
-
-
 The man was sent to a medical facility and the other four members of the rowing team to a separate site, so they will be unlikely to train in Nanto ahead of the Games, Ikeda told Reuters.
-
-
 Ugandan Olympian tests positive for virus upon arrival in Japan, the first detection as athletes head to Tokyo
-
-
 All Olympians visiting Japan are required to be tested for the virus before departure and after their arrival. Although being vaccinated is not a requirement, Olympic officials say they expect more than 80 percent of participants to be inoculated against the coronavirus. Once inside Japan, athletes are required to adhere to a litany of health protocols, such as limiting contact to those in their designated social bubble.
-
-
 Despite the plans on paper, public health experts have warned that the virus is likely to find a way in, given the huge influx of people from all over the world at a time when highly contagious variants are spreading.
-
-
 Complicating matters, Japan itself has been fighting a surge in cases coupled with low vaccination rates. On Saturday, Tokyo confirmed 716 new covid-19 cases, the highest increase in more than five weeks, according to Reuters.
-
-
 Facing the delta variant wave with few vaccine doses, African countries suffer — and bristle with anger
-
-
 In June, two members of Uganda’s Olympic team tested positive after arriving in Japan despite receiving the Oxford-AstraZeneca vaccine. Uganda has been battling its worst outbreak, which scientists say is being fueled by highly infectious variants combined with low vaccination rates and limited hospital resources and health-care access.
-
-
 Late last month, Japan’s Emperor Naruhito issued a rare statement challenging the insistence of the Japanese government and the International Olympic Committee that the Games, already postponed once because of the pandemic, can be safely held this year.
-
-
-
-
 “His majesty is very worried about the current infection situation of the covid-19 disease,” said Yasuhiko Nishimura, grand steward of the agency, the Kyodo News agency reported.
-
-
 “I suppose that he is concerned that while there are voices of anxiety among the public, the event may lead to the expansion of infections,” Nishimura said.
-
-
 Japan’s LGBT community cheers soccer player’s coming out as trans man
-
-
 Thirty-eight percent of Serbians have received at least one shot of the coronavirus vaccine, according to the Reuters vaccine tracker. The Balkan country offers doses produced by Pfizer-BioNTech, China’s Sinopharm, Oxford-AstraZeneca and Russia’s Sputnik V. It wasn’t immediately clear which of the vaccines the Olympian had received.
-
-
 Olympic organizers have emphasized that despite the challenges, the Games — scheduled to begin July 23 — will go on. Foreign spectators were banned and a scaled-down number of domestic spectators will be allowed. Only 10,000 fans, or about 50 percent of a venue’s capacity, whichever figure is smaller, will be permitted, though these calculations exclude VIPs and officials, among others.
-
-
 Japanese officials say more restrictions on the Games could be applied if the number of cases continues to rise.
-
-
 https://www.washingtonpost.com/world/2021/07/04/japan-olymics-third-athlete-positive-coronavirus/
 
 
@@ -3768,160 +3247,59 @@ https://www.washingtonpost.com/world/2021/07/04/japan-olymics-third-athlete-posi
 Источник: Washington Post
 Дата: 27.07.2021
 Заглавие: Want to skip the vaccine in Russia? You could be suspended from work.
-
-
-
-
 By Robyn Dixon
 July 28, 2021 at 4:00 a.m. EDT
-
-
 MOSCOW — When Russia's flagging vaccination campaign failed to stem a devastating third pandemic wave, authorities dumped the burden on businesses — and warned workers who refused vaccines that they could be suspended without pay.
-
-
 The strategy reflects officials’ desperation to boost low vaccine rates — about 16 percent — in a country with sufficient supplies of local Sputnik V and other vaccines. But it also points to wider trends globally amid struggles with the delta variant as governments explore mandates that reward the vaccinated and leave the resisters facing consequences.
-
-
 Many countries are taking first steps on compulsory vaccination in some jobs. France’s Parliament adopted a law Monday requiring the jab among health-care workers. In the United States, the Department of Veterans Affairs announced it would mandate coronavirus vaccines for its front-line workers, becoming the first federal agency to make the order.
-
-
 Russia, however, appears to be pressing faster and harder than many nations to tie the vaccine to getting a paycheck.
-
-
 In Moscow, several hundred people protested mandatory vaccines Monday at a communist-led rally. Similar demonstrations have been mounted recently in places including Greece, India and France.
-
-
 Russian authorities appear squarely behind the measures that have taken shape in recent weeks: threats of harsh punishments for employers in retail and service businesses, such as transportation and restaurants, that fail to have at least 60 percent of their workers vaccinated, and of suspension for workers who refuse vaccines.
-
-
 After the Tajik president’s sister died of covid, her sons beat up the country’s top health officials
-
-
 Many employers, particularly in small and medium-sized business, gripe that Russian authorities have simply passed the buck — handing responsibility for vaccination effort on businesses, when it should belong to the state in a time of growing crisis.
-
-
 Waitresses work on the veranda of a cafe in Moscow on July 5, 2021. In order to contain the spread of the coronavirus, Moscow's authorities imposed a ban on serving people without QR-codes confirming vaccination. (Yuri Kochetkov/EPA-EFE/Shutterstock)
 A surge in the coronavirus — mostly the delta variant — has brought more than 23,000 new cases and almost 800 deaths a day recently.
-
-
-
-
 Although President Vladimir Putin keeps saying vaccines should not be mandatory, the effect for many Russians is just that.
-
-
 “The not-very-rapid vaccination pace is among the reasons why we have so far been unable to radically contain the spread of the disease,” Kremlin spokesman Dmitry Peskov said Tuesday.
-
-
 A survey by the Moscow-based research and employment agency Superjob on July 21 found 55 percent of Russians were opposed to mandatory vaccination. A survey by the agency July 13, found that 31 percent of Russians were not willing to vaccinated under any circumstances, while 26 percent would only do so if they were forced to as a condition to keep working or get hired.
-
-
 Other countries have seen strong vaccine resistance for similar reasons: swerves in official messaging and disinformation circulating on social media.
-
-
 Russians’ long-standing mistrust of authorities may also play a role. From the beginning of the pandemic, most Russians were distrustful of state statistics on the pandemic, according to polls in March and April by the independent Levada Center and Higher School of Economics.
-
-
 People wait at a vaccination center with the slogan “vaccination is the only effective protection against coronavirus” in Moscow’s Luzhniki Olympic Complex on July 8, 2021. (Alexander Zemlianichenko/AP)
 In late June, Moscow Mayor Sergei Sobyanin ordered employers in key service and retail industries to ensure at least 60 percent of staff were fully vaccinated by mid-August, and dozens of other provinces followed suit. At that time, 11 percent of Russians had been vaccinated with two shots, according to official figures, even though Russian vaccines are free and have long been widely available.
-
-
 Now, 16 percent have had two shots, compared with more than 49 percent in the United States and nearly 56 percent in Britain.
-
-
 Track vaccination rates and coronavirus cases around the world
-
-
 Retail and service companies who fail to meet the target could be shut down for months or fined. Yet some employers in the taxi and ride-share industry and food outlets have struggled still with low vaccination rates.
-
-
 Many employers have called on authorities to shift back deadlines or cut the 60 percent target. Some regions have pushed deadlines back.
-
-
 In other restrictions, some universities have barred unvaccinated students from dormitory accommodation. Dmitry Nesvetov, head of the Moscow branch of small- and medium-sized business association OPORA, said most employers believed the government should be responsible for meeting vaccination targets, not business.
-
-
 “Of course employers do not think it’s their job. Of course they think that this is the job of the government and authorities,” he said.
-
-
-
-
 Nesvetov said it was extremely difficult for employers to meet the 60 percent target. Those who faced the greatest difficulty were small businesses with fewer than 30 workers.
-
-
 “You don’t have a lot of tools to convince them or pressure them” to get vaccinated, he said. “You can try to talk to them and explain the consequences. You can use some kind of bonuses or grants to encourage them. Or you can use threats. You can suspend them or send them on vacation without pay, but you cannot fire them.”
-
-
 France approves law requiring coronavirus health pass for restaurants, other venues
-
-
 A spokesman for one Moscow ride-share company, who spoke on the condition of anonymity to offer comments critical of the government, said the vaccine deadlines were “really tough,” forcing employers to buy vaccines and set up their own vaccination points.
-
-
 The spokesman said the government has resorted to “frightening businesses with fines and suspension of activities.”
-
-
 A woman climbs the stairs to line up for a coronavirus vaccination at Gostiny Dvor, an exhibition center in Moscow, on July 13. The banner at center reads, “We will defeat covid-19 together!” (Alexander Zemlianichenko/AP)
 Another ride-share company, Citimobil, said in a statement it had bought 5,000 doses of vaccines for foreign drivers. The company offers prizes to drivers who get vaccinated, including a car raffle.
-
-
 A human resources manager at one Moscow company said it missed an interim July 22 deadline for 60 percent of employees to have the first shot.
-
-
 “It’s the middle of the summer and many people are simply on vacation and we can’t make them drop their travel plans and kids and come back to get vaccinated in this time frame,” said the manager who declined to be named. “We hope that the difficulties we had will somehow be taken into account if there are some sort of checks.”
-
-
 Tokyo reports record for coronavirus infections, but the Games’ bubble holds
-
-
 She said the company had not yet suspended anyone but would do so next month, if staff refused vaccination for no good reason.
-
-
 A July 13 survey by Superjob reported that 20 percent of workers knew of someone in their organization who was fired or suspended for refusing the vaccine.
-
-
 Valeria Slivka, spokeswoman for popular cafe chain Shokoladnitsa, said the company managed to get 76 percent of workers vaccinated.
-
-
 “Our top management inspired and motivated the staff by their example. The heads got vaccinated, filmed the process on video and shared it on our internal portal, setting a positive example to all employees of the company,” she said.
-
-
 A major opportunity to allay Russians’ fears was missed when Putin got vaccinated in March, later issuing a brief announcement with no TV video.
-
-
 According to the Ministry of Industry and Trade, Moscow food chains had managed to persuade on average 25 percent of employees to get vaccinated, Kommersant newspaper reported, citing a July 12 government meeting. The Association of Retail Trade Companies which includes major supermarkets, cited problems, including staff shortages caused by leave and low supplies of vaccines in many regions.
-
-
 Still, many employers decided it was better to do their best to comply with the government demands.
-
-
 “Even though it’s not great,” said the business group head Nesvetov, “it’s still better than a lockdown.”
-
-
 Natasha Abbakumova and Mary Ilyushina contributed to this report.
-
-
 Russian labs race to find a coronavirus vaccine by fall, but concerns raised about fast-track methods
-
-
 Now booming on Moscow’s black market: Fake vaccine certificates
-
-
 Should a coronavirus vaccine be mandatory? In Brazil’s most populous state, it will be.
-
-
-
-
 https://www.washingtonpost.com/world/europe/russia-vaccine-rules-putin/2021/07/27/640ea8b6-ebff-11eb-a2ba-3be31d349258_story.html
-
-
-
 
 #95
 Источник: Washington Post
 Дата: 05.08.2021
 Заглавие:India’s brutal delta-driven wave ended when cases suddenly plunged. Weeks later, the stubborn variant persists. 
-
-
 By Niha Masih
 and 
 Gerry Shih
@@ -3965,108 +3343,42 @@ https://www.washingtonpost.com/world/2021/08/05/india-delta-variant/
 Источник: Washington Post
 Дата: 11.08.2021
 Заглавие: Millions of coronavirus vaccine doses around the world face expiration
-
-
-
-
 By Adam Taylor and Danielle Paquette 
 August 11, 2021 at 11:33 a.m. EDT
-
-
 For months, a refrigerator at a government facility in the Dutch university town of Leiden has housed 90 or so small white boxes that contain thousands of dollars worth of AstraZeneca vaccine doses. But most of them are emblazoned with six small numbers that will soon render them worthless: 08.2021.
-
-
 For Dennis Mook-Kanamori, a doctor at Leiden University Medical Center who until recently was administering vaccines there, the upcoming expiration of thousands of doses is tragic. What really incenses him, however, is that the Dutch government is set to let the doses expire rather than send them abroad.
-
-
 “It’s an elitist, decadent attitude,” Mook-Kanamori said.
-
-
 The situation is mirrored in countless freezers, refrigerators and backrooms around the world, as millions of coronavirus vaccine doses, developed at record-breaking speeds, march toward expiration before they can be used. And as demand slows in wealthy nations like the Netherlands, more dust is gathering — and more doses are expiring.
-
-
 Last month, Mook-Kanamori and his colleagues threw away 600 doses. By the end of August, the number is set climb by another 8,000. Unless something changes, by October, all 10,000 or so doses in the refrigerators in Leiden will have been thrown out. Doctors estimate there may be 200,000 AstraZeneca doses in the Netherlands facing a similar fate.
-
-
 Much of the world has yet to see enough doses to vaccinate even the most vulnerable. Across Africa, as of late last month, only 2.2 percent of people had received at least one dose, while the Netherlands had vaccinated well over half of its population. The Dutch government, which owns the doses, has said that for legal and logistical reasons they cannot be exported, despite criticism from Dutch doctors.
-
-
 While vaccination programs always have some waste, even standard levels mean mind-boggling numbers of unused doses at the scale of global coronavirus vaccination. But just how many doses have already expired, or are about to, is unclear.
-
-
 “There is no one who tracks expired doses systematically,” said Prashant Yadav, an expert on health-care supply chains at the Center for Global Development, a think tank. Instead, information has trickled out in news reports and little-publicized official statements.
-
-
 In Israel, 80,000 expiring Pfizer-BioNTech doses were set to be tossed at the end of July; 73,000 doses from various manufacturers have been disposed of in Poland; and 160,000 Sputnik V doses nearing expiration were returned from Slovakia to Russia, their final status unknown. In the United States, North Carolina alone is estimated to have 800,000 doses soon to expire.
-
-
 According to data compiled by the World Health Organization, approximately 469,868 doses from various manufacturers had expired in Africa as of Monday. “Most of the vaccines arriving have a very short expiration date,” said Richard Mihigo, coordinator of immunization and vaccine development for the WHO’s Africa arm.
-
-
 The lack of global data masks the price tag. In the United States alone, estimates of total expired or close-to-expired doses run in the millions. With some vaccines costing as much as $20 a shot, the cost could run into many tens of millions of dollars, if not more.
-
-
 The toll for human health may be even graver. “The doses we have aren’t enough,” said Lawrence Gostin, global health law professor at Georgetown University. “They’re expiring, they’re spoiling with electrical shortages, they’re not being delivered to the population. It’s a whole catastrophe.”
-
-
 Why do vaccines expire?
 Vaccines often degrade at a higher rate than many other drugs that can be stockpiled, such as Tamiflu, which can be stored for years, according to Jesse Goodman, a professor at the Georgetown School of Medicine and former chief scientist of the U.S. Food and Drug Administration.
-
-
 As doses age, they “might not engender the same immune response,” Goodman said, turning a strong, potentially lifesaving inoculation into a weakened dud. And mRNA vaccines, such as those developed by Pfizer and Moderna, are particularly fragile.
-
-
 Expiration dates are set by the manufacturer and approved by local regulatory authorities. Many coronavirus vaccines were given initial emergency use authorization when only six months of data was available, resulting in cautiously short expiration dates.
-
-
 In a statement to The Washington Post, the WHO said that unlike opened-vial wastage, where multi-dose vaccine vials were opened but could not be used before expiration, unopened vial wastage, such as expiry, was “avoidable.” In general, the global health body said, it is recommended to keep all vaccine wastage to below 1 percent.
-
-
 That may be no easy task. Data compiled by the global vaccine alliance Gavi on non-coronavirus vaccines shows wastage can often hit 10 percent, and sometimes far higher.
-
-
 Appointment booths stand empty at a vaccination site at Expo Houten, south of Utrecht, Netherlands, on Aug. 4. The location was set to close because of low interest in vaccination appointments. (Sander Koning/ANP/AFP/Getty Images)
 Use it or lose it?
 Marco Blanker, a doctor in the Dutch town of Zwolle, said he had to throw away 58 doses in one day in the spring due to no-shows amid negative publicity about the AstraZeneca vaccine.
-
-
 “It was devastating for the team,” he said. “We did all our best in the previous weeks to not have any spillage — we didn’t lose a drop.”
-
-
 Blanker posted a photograph of the discarded doses on Twitter, sparking a public debate in the Netherlands. Soon other Dutch doctors teamed up to create an app to help redistribute the doses.
-
-
 Demand in the Netherlands eventually dried up. The country is now 55 percent fully vaccinated and AstraZeneca is only recommended for certain age groups. So Blanker and other doctors such as Mook-Kanamori began looking for other nations that might accept the doses.
-
-
 Namibia, a West African nation struggling for doses, looked like a good destination. There was even a Dutch doctor who said he was willing to fly them there himself, Mook-Kanamori said. But the Dutch government has stuck to the same position: The doses must be disposed of after they expire.
-
-
 The Dutch Ministry of Health did not respond to a request for comment. The Netherlands has pledged to donate other vaccine doses, including 75,000 AstraZeneca doses to Namibia.
-
-
 ‘We just didn’t have enough time’
 Even when doses do go to those in need, expiration dates can pose problems. Across Africa, most countries have tailored their rollouts around a three-to-four-month delivery window, Mihigo said. But shipping delays have forced some to contend with shorter periods.
-
-
 Liberia had 15 days to distribute tens of thousands of AstraZeneca shots from the African Union. About 27,000 expired. “We just didn’t have enough time,” said the country’s health minister, Wilhelmina Jallah.
-
-
 Benin discarded 51,000 doses in July after struggling for three months to deliver them, said Landry Kaucley, the country’s director of vaccine logistics. Fears of the shots lingered after European nations paused rollouts to investigate blood clot risks.
-
-
 Other countries have gone a step further. In Malawi, the government burned almost 20,000 expired AstraZeneca doses in May, in what local officials said was a move to show the public that they would not receive expired doses. Some health authorities, such as the Palestinian Authority, have refused to accept doses they said were too close to expiration.
-
-
 Expiration dates can change. The FDA last month extended the expiry for the Johnson & Johnson vaccine in the United States to six months from 4½ months. A representative of the Russian Direct Investment Fund said they expected the expiration of Sputnik V to be increased from six months to one year. Such moves can help claw back doses.
-
-
 Some experts hope to see Covax, the U.N.-backed vaccine-sharing mechanism, or bilateral deals help move vaccine doses to where they need to be before they expire. But finding a way to share doses is not really the problem, according to doctors like Mook-Kanamori.
-
-
 “I can get 8,000 shots into an arm in Namibia next week, if there’s a will,” he explained. “The problem is that there is no will.”
-
-
 https://www.washingtonpost.com/world/2021/08/11/millions-coronavirus-vaccine-doses-around-world-face-expiration/
 
 
@@ -4074,71 +3386,29 @@ https://www.washingtonpost.com/world/2021/08/11/millions-coronavirus-vaccine-dos
 Источник: Washington Post
 Дата: 11.08.2021
 Заглавие: Facebook bans Russian disinformation network that claimed coronavirus vaccines turn people into chimpanzees
-
-
 Facebook said it shut down an operation that sought to spread coronavirus vaccine hoaxes. (Olivier Douliery/AFP/Getty Images)
 By Rachel Pannett
 August 11, 2021 at 3:58 a.m. EDT
-
-
 Facebook has removed hundreds of accounts it said were part of a disinformation campaign largely run out of Russia that also used social media influencers to peddle fake claims about coronavirus vaccines, including that some shots could turn people into chimpanzees.
-
-
 Investigators said they traced the origins of the campaign to Fazze, a subsidiary of a U.K.-registered marketing firm whose operations were primarily conducted from Russia. The operation “targeted audiences primarily in India, Latin America and, to a much lesser extent, the United States,” according to a report published Tuesday by the social media company.
-
-
 Facebook called the anti-vaccine campaign a “disinformation laundromat,” whose efforts spanned Reddit, Medium and Change.org, as well as Facebook and its sister platform Instagram, where fake accounts were said to have amplified disinformation. Influencers on Instagram, YouTube and TikTok were also asked to post misleading content and use certain hashtags, the company said.
-
-
 The Menlo Park, Calif.-based company banned Fazze because these actions violated Facebook’s policy against foreign interference through “coordinated inauthentic behavior on behalf of a foreign entity,” it said.
-
-
 Fazze made headlines earlier this year when influencers including French YouTuber Léo Grasset — also known as DirtyBiology — said they had received a proposal from the agency to baselessly claim online that the Pfizer-BioNTech vaccine is dangerous and more lethal than the Oxford-AstraZeneca shot. That effort reportedly triggered an investigation by French authorities into the potential involvement of the Russian state.
-
-
 How to spot misinformation, prevent its spread and become more media literate (Lindsey Sitz, Nicole Ellis/The Washington Post)
 Fazze and its parent agency, AdNow, didn’t immediately return a request for comment. Kremlin spokesman Dmitry Peskov said in response to past claims of Russian vaccine disinformation that “Russia is not misinforming anyone, Russia proudly talks about its successes and Russia shares its successes regarding the first-ever registered vaccine in the world.”
-
-
 In May, Facebook said it had uncovered disinformation campaigns in more than 50 countries dating to 2017, when it began cracking down on political actors seeking to manipulate public debate on its platform. The company accused Russia of being the largest producer of disinformation.
-
-
 Russia is still the biggest player in disinformation, Facebook says
-
-
 Facebook has banned misinformation about the novel coronavirus, including claims about false cures and misleading representations about the number of covid-linked deaths, from its platform.
-
-
 In July, President Biden accused the company of “killing people” by allowing the spread of misinformation about coronavirus vaccines. He later softened his criticism, though he still called on Facebook to be more aggressive in combating the problem.
-
-
 An analysis by the Center for Countering Digital Hate, a nonprofit, of a large sample of anti-vaccine content on Facebook and Twitter found that the majority of the posts could be attributed to just 12 individuals.
-
-
 Those influencers and others had all significantly increased their followers during the pandemic. Facebook says it has removed more than 18 million posts containing misinformation about covid-19, but it does not share the number of people who have been exposed to such content. That number is likely far greater.
-
-
 Facebook investigators said the Russian-linked campaign began in November and December last year, when the network allegedly posted memes and comments that falsely claimed the Anglo-Swedish AstraZeneca vaccine could turn people into chimpanzees.
-
-
 This spring, Fazze allegedly moved to undermine the Pfizer vaccine by posting a purportedly “hacked and leaked” AstraZeneca document that made the misleading claim that the Pfizer shot had a much higher mortality rate than other vaccines, Facebook said.
-
-
 The Oxford-AstraZeneca vaccine has been linked in an extremely small number of cases to fatal blood clots. The Pfizer-BioNTech vaccine, like other shots approved for use in the United States, has undergone vigorous safety testing.
-
-
 Russian vaccine Sputnik V is using Twitter to needle and undermine its rivals
-
-
 Facebook said the two waves of the campaign coincided with authorities in Latin America, India and the United States “reportedly discussing the emergency authorizations for these respective vaccines.”
-
-
 In April, a month before the second tranche of the disinformation campaign, the Russian-developed Sputnik V vaccine took a blow when Brazilian health regulators issued a scathing rebuke and declined to approve the shot. The World Health Organization has not authorized Sputnik V for emergency use, though roughly 70 countries have approved its administration during the pandemic.
-
-
 Facebook said questions about the anti-vaccine campaign remain, such as who allegedly commissioned Fazze to run it.
-
-
 https://www.washingtonpost.com/world/2021/08/11/facebook-russia-disformation-covid-vaccine/
 
 
@@ -4146,85 +3416,33 @@ https://www.washingtonpost.com/world/2021/08/11/facebook-russia-disformation-cov
 Источник: Washington Post
 Дата: 25.08.2021
 Заглавие: America’s exceptional infighting over the coronavirus
-
-
-
-
-
-
 By Aaron Blake
 Senior reporter
 August 25, 2021 at 11:40 a.m. EDT
-
-
 The United States entered a new phase in the fight against the coronavirus this week, with the first full approval of a vaccine.
-
-
 The approval, though, comes at a time when political divides over the vaccines and many other coronavirus-related issues remain as large as ever — if not larger. The White House is now pushing for employers to mandate inoculation with the Pfizer-BioNTech vaccine, while many high-profile Republicans are not only resisting that but have ratcheted up the battle against a far-less-intrusive mitigation technique: mask mandates.
-
-
 Polarization is nothing new in the United States, and it has only become worse in recent decades. But it’s worth taking stock of how unusual this internal feuding is over an issue of such national import. There are large protests in other countries such as France over vaccine passes, after all! Maybe we’re not so uniquely divided?
-
-
 Turns out we are, though — by several metrics.
-
-
 The Pew Research Center recently conducted a study of how the residents of various countries view their coronavirus restrictions. The takeaway: The political split in the United States is bigger than in any of the 10 other countries surveyed.
-
-
 While 52 percent of the political right said there should have been fewer restrictions on public activity during the pandemic, just 7 percent of the left said the same.
-
-
 Percentage of people who say there were too many coronavirus restrictions. (Aaron Blake/Pew Research Center)
 That 45-point gap was more than twice as large as in any other country surveyed. And it’s driven by the right; the gap between the center and the right was also more than twice as big as anywhere else. In no other country was the right nearly so unhappy about the restrictions.
-
-
 That’s particularly striking given that the United States’ restrictions have generally been less severe than those of most other developed countries, according to Oxford University’s government response stringency index. That accounts for almost all countries included in the Pew survey.
-
-
 The findings echo a similar poll Pew conducted in 13 countries in the summer of 2020. It asked how both supporters and opponents of the party in power viewed their country’s coronavirus response; the gap was again larger in the United States (when the Trump administration was in charge) than anywhere else.
-
-
 Views of the government's coronavirus response, by country. (Aaron Blake/Pew Research Center)
 In every other country, support for the government’s response increased, but not in the United States.
-
-
 The story is similar on other measures, especially vaccines.
-
-
 In January, the World Economic Forum commissioned a poll on vaccine hesitancy in 15 countries. At the time, the United States was on the low end, but not terribly out of step. The poll asked people whether they would get the vaccine when it became available to them, and the United States ranked 10th out of 15, at 71 percent. It was still ahead of Japan, South Africa, Russia, France and even Germany.
-
-
 But this was early in the vaccination efforts, and vaccine hesitancy in the United States has proved unusual for a couple of reasons: Its staying power, and the reasons behind it.
-
-
 Imperial College London and YouGov have tracked unwillingness to get vaccinated in many countries over time. In February, only France (42 percent) had a higher unwillingness than the United States (33 percent) among the 13 countries included. Their data also showed both Japan and Germany ahead of the United States, unlike the earlier WEF poll (which asked a slightly different question).
-
-
 And as things progressed, the United States’ vaccine skeptics remained more entrenched. By last month, France still brought up the rear, but it was basically on par (30 percent unwilling) with the United States (29 percent).
-
-
 The results were similar in another poll conducted of several countries last month. It found the United States with the second-highest vaccine hesitancy race among 15 countries surveyed — lower only than Russia, where hesitancy toward its Sputnik V vaccine traces to a whole lot of relevant history. Hesitancy also declined in the United States by only four points since April, compared with an average of 12 points for the other countries. (Only one country had a smaller decline: the United Kingdom, which has been one of the most pro-vaccine countries from the start.)
-
-
 Another study released last month in the journal Nature Medicine compared the United States to lower- and middle-income countries. It was again found to be more vaccine resistant than all of them with the exception of Russia.
-
-
 A big reason for the difference? Unlike in those countries, there was much less concern about becoming seriously ill from the coronavirus. Americans were also less convinced about the vaccines’ effectiveness.
-
-
 Reasons for vaccine hesitancy, by country (Aaron Blake/Nature Medicine)
 That latter reason is a thread worth pulling out. That same WEF poll in January also asked people about their reasons for resisting the vaccines. Fully 11 percent of Americans said they would not get vaccinated because they were against vaccines in general — more than in any other country. Fully 3 in 10 cited either that reason, the vaccines’ supposed lack of effectiveness or the supposedly low risk from the virus. That was the highest of any country.
-
-
-
-
 In other words, even in a survey that at the time showed the United States not hugely out of step with other countries on vaccine hesitancy, there was evidence that its hesitancy might be more difficult to break down. And that has been borne out in the months since.
-
-
 As have plenty of other splits that have rendered the United States coronavirus response among the most exceptional — in terms of divisions — in the world.
-
-
 https://www.washingtonpost.com/politics/2021/08/25/us-coronavirus-infighting/
 
 
@@ -4232,8 +3450,6 @@ https://www.washingtonpost.com/politics/2021/08/25/us-coronavirus-infighting/
 Источник: Washington Post
 Дата: 01.09.2021
 Заглавие: The U.S. and Russia could join forces to get people vaccinated. They did before.
-
-
 By Yana Demeshko, 
 Ruth Gabor, 
 Ivan Grekand Kristen Ho
@@ -4259,123 +3475,50 @@ Many people are probably unaware that, against the backdrop of the Cold War, the
 https://www.washingtonpost.com/outlook/2021/09/01/us-russia-could-join-forces-get-people-vaccinated-they-did-before/
 
 
-
-
-
-
 #100
 Источник: Washington Post
 Дата: 14.09.2021
 Заглавие: National World Digest: Sept. 14, 2021
-
-
 September 14, 2021 at 4:28 p.m. EDT
-
-
 Putin in self-isolation after coronavirus exposure: Russian President Vladimir Putin said he would self-isolate after people close to him tested positive for the coronavirus. The news came from the Kremlin in a transcript of a call between Putin and Tajik President Emomali Rahmon, in which Putin said he would attend a meeting of the Shanghai Cooperation Organization, planned for later this week in Tajikistan's capital, virtually instead of in person. The Kremlin said Putin is "absolutely healthy" and has not tested positive for the coronavirus. He was vaccinated against the coronavirus in March with his country's Sputnik V.
-
-
-
-
 https://www.washingtonpost.com/national/world-digest-sept-14-2021/2021/09/14/772fe8f8-1565-11ec-9589-31ac3173c2e5_story.html
-
-
-
 
 #101
 Источник: Washington Post
 Дата: 14.09.2021
 Заглавие: Vladimir Putin self-isolates after covid exposure but has not tested positive, Kremlin says
-
-
-
-
 September 14, 2021 at 8:26 a.m. EDT
-
-
 Russian President Vladimir Putin said he will self-isolate after individuals close to him tested positive for the coronavirus.
-
-
 The news came from the Kremlin in a transcript of a call between Putin and Tajikistan President Emomali Rahmon, where Putin said he will attend a meeting of the Shanghai Cooperation Organization, planned later this week in the Tajik capital of Dushanbe, virtually instead of in person.
-
-
 The Kremlin also said Putin is “absolutely healthy” and has so far not tested positive for the coronavirus. The Russian president was vaccinated against the coronavirus in March with his country’s own Sputnik V.
-
-
 Putin met in person with Syrian President Bashar al-Assad at the Kremlin on Monday. Assad said he and his wife recovered from covid-19 in March.
-
-
 https://www.washingtonpost.com/world/2021/09/14/putin-self-isolates-kremlin-says-not-tested-positive-for-coronavirus/
-
-
 
 
 #102
 Источник: Washington Post
 Дата: 16.09.2021
 Заглавие: As world leaders gather in New York for U.N. General Assembly, a vaccine mandate creates confusion and dissent
-
-
-
-
 By Ellen Francis and Adam Taylor 
 September 16, 2021 at 6:04 p.m. EDT
-
-
 The debate unfolding around the world over coronavirus vaccine mandates is playing out on a small scale at United Nations headquarters ahead of a meeting of dozens of world leaders in New York next week.
-
-
 New York City officials have requested that heads of states, and the many diplomats traveling with them, show proof that they are fully vaccinated before entering the U.N. hall for the annual opening of the General Assembly, one of the top diplomatic events of the year.
-
-
 The request got the backing of the General Assembly’s president, Maldivian Foreign Minister Abdulla Shahid. In a statement released on Wednesday, New York Mayor Bill DeBlasio and International Affairs Commissioner Penny Abeywardena thanked U.N. diplomats for working with them on the issue, calling them “true New Yorkers” for helping the city recover.
-
-
 But not all those diplomats professed the same camaraderie. In a letter to colleagues released on Wednesday, Russian U.N. Ambassador Vasily Nebenzya called the requirements “a clearly discriminatory measure” and said that they were a violation of the U.N. charter.
-
-
 This Russian opposition to the vaccine requirement prompted harsh words from DeBlasio on Thursday, with the New York mayor telling reporters that “if the Russian ambassador is against it, I’m for it” and suggesting that the Russians had “invalidated themselves” by trying to disrupt U.S. elections.
-
-
 The Russian Mission to the United Nations did not respond to a request for comment.
-
-
 The news comes amid broader tensions: Experiments with coronavirus mandates in Europe, the United States and elsewhere have created friction as variants spread — and as countries struggle to balance public health restrictions with individual liberties.
-
-
 New York has started requiring proof of at least one coronavirus shot to allow people into restaurants, gyms, movie theaters and other indoor venues.
-
-
 But for foreign diplomats, there is a further complication: Countries administer different coronavirus vaccines — including ones that have not been granted emergency use authorization in the United States.
-
-
 Sputnik V, a vaccine backed by Moscow and widely administered in Russia, does not have approval in the United States and is not on the World Health Organization’s emergency use listing either.
-
-
 New York officials have announced that they will give out free doses of the single-shot Johnson & Johnson vaccine by the U.N. headquarters in Midtown, but it is not approved in all U.N. member states either, though it does have WHO emergency use listing.
-
-
 Speaking on Thursday, DeBlasio brushed aside these concerns, suggesting that anyone with a “nonapproved” vaccine could get vaccinated again in New York. Speaking of the Russian diplomats, DeBlasio said, “if their vaccine isn’t good enough, then they should go and use one of the other vaccines."
-
-
 Despite DeBlasio’s comments, officials from both New York City and the U.N. admitted on Thursday that the details about a vaccine mandate were still up in the air. Some U.N. officials bristled at the idea that city officials could infringe upon the U.N.'s carefully crafted extraterritoriality status.
-
-
 New York officials were "looking forward to seeing how the UN will implement this policy,” Abeywardena, in charge of the city’s international affairs, said in a statement on Thursday.
-
-
 Stéphane Dujarric, a spokesman for U.N. Secretary General António Guterres, suggested that the United Nations had previously deployed an “honor system” when it came to vaccines and testing for the novel coronavirus, and that they were working with the “sitting President of the General Assembly to continue that honor system in a way that is acceptable for all.”
-
-
 By the understanding of the United Nations, “the letter from NY City authorities does not specify any vaccine,” Monica Villela Grayley, a spokeswoman for the General Assembly president, wrote in an email.
-
-
 The pandemic meant that no delegations went to New York last year for what turned into a virtual annual gathering. Next week, however, more than a hundred heads of state, including President Biden and Turkish leader Recep Tayyip Erdogan, plan to attend in person, while others will give video speeches.
-
-
 Guterres, speaking to Reuters this week, said he expects that most of the officials flying to New York are immunized, but the dispute has also highlighted drastic inequality: While the United States plans to initially offer certain groups of people booster shots, only 2 percent of the world’s 5.7 billion administered doses have reached people in Africa.
-
-
 https://www.washingtonpost.com/world/2021/09/16/united-nations-vaccine-mandate-russia/
 
 
@@ -4383,8 +3526,6 @@ https://www.washingtonpost.com/world/2021/09/16/united-nations-vaccine-mandate-r
 Источник: Washington Post
 Дата: 19.09.2021
 Заглавие: Jair Bolsonaro, defiantly unvaccinated, will test U.N. General Assembly’s covid ‘honor system’
-
-
 By Annabelle Timsit
 September 19, 2021 at 1:44 p.m. EDT
 The United Nations is demanding world leaders arriving in New York for its General Assembly adhere to an “honor system” to attest they are fully vaccinated against the coronavirus.
@@ -4392,8 +3533,6 @@ But that mandate will be tested in the general debate’s very first moments.
 Jair Bolsonaro, who contracted the virus last year and as recently as last week said publicly that he does not need to be vaccinated because he has naturally acquired antibodies, is scheduled to kick off the 76th U.N. General Assembly’s general debate on Tuesday.
 It’s U.N. tradition that the president of Brazil speaks first — yet the body seems to have little ability or appetite to enforce the mandate if Bolsonaro enters the General Assembly Hall without first getting a shot.
 “Everyone who has contracted this virus are vaccinated, even in a way that’s more effective than the vaccine itself. So don’t argue it,” Bolsonaro has said. Brazil has the second-highest covid-19 death toll in the world — behind only the United States — with nearly 590,000 deaths and 37 percent of its population fully vaccinated, according to Our World in Data.
-
-
 President Biden is set to arrive in New York City on Monday before also giving a speech Tuesday at the opening of the general debate.
 A U.N. official familiar with the matter, who spoke on the condition of anonymity because they were not authorized to speak publicly about security details, told The Washington Post that it will not bar unvaccinated people from entering its building and participating in U.N.-related events. New York authorities are providing free testing and vaccination and have said foreigners traveling to the city for the event must be vaccinated, but U.N. officials said they did not have the ability to enforce a vaccination mandate.
 The United States, which serves as the host annually to the event at the U.N. headquarters, initially tried dissuading as many participants as possible from coming: In a letter sent in August seen by media outlets, the U.S. mission to the United Nations asked those who could to attend virtually to avoid turning the annual gathering into “a super-spreader event.”
@@ -4412,8 +3551,6 @@ The mandate has already inflamed tensions among some dignitaries. Russian U.N. A
 When asked about the Russian ambassador’s comment, de Blasio said at a news conference that “if their vaccine isn’t good enough, then they should go and use one of the other vaccines.”
 The mayor, referring to clinics offering the single-dose Johnson & Johnson vaccine that the city plans to make available to UNGA attendees, added that “anyone who’s had a nonapproved vaccine can get one of the ones that we’re using here that are effective.”
 Others may wish for stronger action. In the case of Bolsonaro, Brazilian author and U.N. Messenger of Peace Paulo Coelho tweeted that it “would be a victory to prevent the delegation of Brazil’s president from entering” the General Assembly Hall if he is not vaccinated.
-
-
 https://www.washingtonpost.com/world/2021/09/19/jair-bolsonaro-unga-vaccine-honor-system/
 
 
@@ -4421,10 +3558,6 @@ https://www.washingtonpost.com/world/2021/09/19/jair-bolsonaro-unga-vaccine-hono
 Источник: Washington Times
 Дата: 27.09.2021
 Заглавие: New U.S. travel rules close door on those fully vaccinated with Russia’s Sputnik V
-
-
-
-
 By Adam Taylor
 September 27, 2021 at 8:18 a.m. EDT
 The United States announced last week that it would soon open its doors to foreign travelers vaccinated against the coronavirus, loosening restrictions for broad swaths of global visitors for the first time since the pandemic began.
@@ -4456,8 +3589,6 @@ https://www.washingtonpost.com/world/2021/09/27/us-travellers-sputnik-russia/
 Источник: Washington Post
 Дата: 17.10.2021
 Заглавие: Fully vaccinated travelers can come to the U.S. even if their doses are mixed, authorities say 
-
-
 By Paulina Firozi
 October 17, 2021|Updated October 17, 2021 at 8:55 p.m. EDT
 International travelers who are fully vaccinated with mixed doses of approved coronavirus vaccines will be allowed into the United States after the Centers for Disease Control and Prevention updated its guidance Friday.
@@ -4490,8 +3621,6 @@ https://www.washingtonpost.com/health/2021/10/17/cdc-guidance-mixed-vaccine-dose
 Источник: Washington Post
 Дата: 20.10.2021
 Заглавие: To combat covid-19 deaths, Putin approves nationwide one-week workplace shutdown
-
-
 Russian President Vladimir Putin said the shutdown, which will begin at the end of the month, could be pushed up or extended in certain areas, Reuters's Vladimir Soldatkin, Darya Korsunskaya and Gabrielle Tétrault-Farber report. “Authorities across the country have made moves to curb the spread of the virus, reflecting a growing sense of urgency as they confront widespread public reluctance to get injected with the Russian-made Sputnik V vaccine.”
 https://www.washingtonpost.com/politics/2021/10/20/heres-what-ted-cruz-wants-return-unblocking-bidens-nominations/
 
@@ -4500,8 +3629,6 @@ https://www.washingtonpost.com/politics/2021/10/20/heres-what-ted-cruz-wants-ret
 Источник: Washington Post
 Дата: 21.10.2021
 Заглавие: Moscow prepares for a return to lockdown as covid cases — and deaths — soar
-
-
 By Isabelle Khurshudyan and Mary Ilyushina 
 October 21, 2021 at 9:39 a.m. EDT
 MOSCOW — With Russia enduring its worst wave of the coronavirus pandemic, setting grim records in daily cases and deaths, Moscow announced a lockdown Thursday — a move the Kremlin had previously said it would avoid at all costs.
@@ -4529,8 +3656,6 @@ https://www.washingtonpost.com/world/europe/moscow-covid-lockdown/2021/10/21/424
 Источник: Washington Post
 Дата: 27.10.2021
 Заглавие: Airlines brace for ‘onslaught’ of travelers as U.S. prepares to open its borders
-
-
 By Bryan Pietsch
 October 27, 2021 at 4:26 a.m. EDT
 CORRECTION
@@ -4548,8 +3673,6 @@ Children under 18 will be exempt from the vaccination requirement, as some count
 The United States will accept people who have been vaccinated with the shots that have been authorized within its borders — vaccines by Moderna, Pfizer-BioNTech and Johnson & Johnson — as well as vaccines approved for emergency use by the World Health Organization, such as those developed by AstraZeneca with Oxford University, as well as by China’s Sinovac. It will also allow people who have received combinations of such shots. However, Russia’s Sputnik V vaccine won’t be included, as it has yet to be approved by the WHO, which suspended its review of the vaccine in September over concerns about production practices but resumed the process in October.
 Industry advocates had been pushing the Biden administration for months to lift restrictions, arguing that the United States was lagging behind other countries that had reopened their borders. Although much of Europe was opened to Americans, most Europeans have been unable to travel to the United States.
 U.S. travel has rebounded almost to pre-pandemic levels. On Monday, nearly 2 million people passed through security checkpoints operated at U.S. airports, according to data from the Transportation Security Administration. That’s more than double the number of travelers recorded a year prior and about 300,000 less than the same day in 2019.
-
-
 https://www.washingtonpost.com/travel/2021/10/27/us-travel-ban-lifted-delta-airlines/
 
 
@@ -4557,8 +3680,6 @@ https://www.washingtonpost.com/travel/2021/10/27/us-travel-ban-lifted-delta-airl
 Источник: Washington Post
 Дата: 05.11.2021
 Заглавие: As pandemic pounds Ukraine, desperate officials try to scare people into getting the jab
-
-
 A medical worker in protective gear leaves the intensive care unit in one of the hospitals treating covid-19 patients in Kyiv, Ukraine, on Nov. 2, 2021. (Sergei Supinsky/AFP/Getty Images)
 By David L. Stern
 November 5, 2021 at 10:15 a.m. EDT
@@ -4585,8 +3706,6 @@ In March, Kremlin spokesman Dmitry Peskov, in response to U.S. allegations that 
 “Russia has never participated and does not intend to participate in such campaigns against other vaccines,” he said. (Russia developed its own vaccines, led by Sputnik V.)
 Caught between politics and the pandemic, some countries ban rivals’ vaccines
 Ukraine’s information campaigns in the spring and summer focused largely on spreading the word that coronavirus vaccines — which reached Ukraine relatively late — were available, and where and how they could be obtained.
-
-
 Svitlana Kisilova, the head of Ukraine’s Covid-19 Vaccination Communication Center, said she and her team recognized that they were not connecting with certain audiences. They began to shift their messaging in September.
 People rally against a vaccine mandate for some state employees and pandemic-related restrictions in Kyiv on Nov. 3, 2021. The placard reads: “Vaccination kills.” (Valentyn Ogirenko/Reuters)
 “The anti-vaccine messages are more emotional and very blunt,” said Kisilova, whose group helps coordinate the government’s public outreach.
@@ -4600,10 +3719,6 @@ Isabelle Khurshudyan in Moscow contributed to this report.
 How to navigate coronavirus restrictions across Europe
 Am I eligible for a booster shot?
 In Russia, experts challenge official pandemic figures. They refused to be silenced.
-
-
-
-
 https://www.washingtonpost.com/world/europe/coronavirus-ukraine-vaccine-russia/2021/11/05/f63e23f6-3ca4-11ec-bd6f-da376f47304e_story.html
 
 
@@ -4611,8 +3726,6 @@ https://www.washingtonpost.com/world/europe/coronavirus-ukraine-vaccine-russia/2
 Источник: Washington Post
 Дата: 11.11.2021
 Заглавие: Eastern Europe, facing coronavirus pandemic surge, also battles vaccine hesitancy
-
-
 By Bryan Pietsch
 November 11, 2021|Updated November 11, 2021 at 2:32 p.m. EST
 Europe was one of the first regions in the world to deploy coronavirus vaccines, yet parts of the continent are seeing a resurgence in cases, with some countries experiencing their highest infection levels of the pandemic.
@@ -4639,8 +3752,6 @@ https://www.washingtonpost.com/world/2021/11/11/europe-coronavirus-rise-vaccines
 Источник: Washington Post
 Дата: 15.11.2021
 Заглавие: Specter of new restrictions rises in Europe with coronavirus cases spiking once again
-
-
 By Miriam Berger
 November 15, 2021 at 5:00 p.m. EST
 Nearly two years into the coronavirus era, much of Europe is once again facing a surge in cases and, in some countries, a return to lockdowns and restrictions that felt like a distant part of the pandemic.
@@ -4668,8 +3779,6 @@ Russia’s vaccination campaign has also lagged, a year into the availability of
 Only 40 percent of Russia’s population is fully vaccinated. One draft law would require people to have a QR code confirming vaccination, a medical certificate proving a previous infection or a medical exemption from the vaccine for anyone seeking to travel on intercity or international rail and air services. The code also would be needed to purchase tickets.
 If the proposed legislation passes, it would come into force in February. QR codes might also be required for public places and restaurants, but those measures would depend on the region rather than nationwide.
 William Booth in London, Isabelle Khurshudyan in Moscow, Loveday Morris in Berlin and Perry Stein in Brussels contributed to this report.
-
-
 https://www.washingtonpost.com/world/2021/11/15/europe-coronavirus-restrictions/
 
 
@@ -4677,8 +3786,6 @@ https://www.washingtonpost.com/world/2021/11/15/europe-coronavirus-restrictions/
 Источник: Washington Post
 Дата: 23.11.2021
 Заглавие: Your questions about covid, answered: Is there reliable data about Russian vaccines?
-
-
 By Derek Hawkins
 November 23, 2021 at 12:02 a.m. EST
  “Is there reliable data on effectiveness for the Russian vaccines?”
@@ -4693,8 +3800,6 @@ The WHO and European regulators say they, too, haven’t gotten all the data the
 “Unfortunately, Sputnik V’s defenders have yet to acknowledge that there might be any actual safety or efficacy issues with the drug, let alone provide data to satisfy the regulators that have flagged concerns. This stance undermines public faith in the vaccine at home and abroad,” Paul Stronski, a Russia expert at the nonpartisan Carnegie Endowment for International Peace, wrote last week.
 “Sputnik V clearly provides some protection against severe disease,” Stronski wrote, “but independently verified data remain hard to come by.”
 — Derek Hawkins
-
-
 https://www.washingtonpost.com/health/your-questions-about-covid-answered-is-there-reliable-data-about-russian-vaccines/2021/11/19/233a50fe-47f5-11ec-95dc-5f2a96e00fa3_story.html
 
 
@@ -4702,8 +3807,6 @@ https://www.washingtonpost.com/health/your-questions-about-covid-answered-is-the
 Источник: Washington Post
 Дата: 23.12.2021
 Заглавие: Omicron could derail efforts to reverse vaccine inequality and end the pandemic, experts warn
-
-
 By Miriam Berger
 December 23, 2021 at 6:00 a.m. EST
 The rapid spread of the omicron variant could be a major setback for efforts to reverse sharp inequality in the accessibility of effective coronavirus vaccines around the world, public health experts warn.
