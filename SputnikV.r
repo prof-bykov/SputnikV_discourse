@@ -21,6 +21,9 @@ edit(sputnik)
 # Build a simple plot
 plot(sputnik$Washington_Post)
 
+# If necessary, install packages
+install.packages("ggplot2")
+
 # Load ggplot2 library 
 library(ggplot2)
 
@@ -32,7 +35,7 @@ ggplot(data = sputnik, aes(x = Period, y = Washington_Post,  group = 1)) +
 
 # Info for legend
 colors <- c("Washington Post" = "black", "Washington Times" = "grey", "Novaya Gazeta" = "orange", "Parlamentskaya Gazeta" = "yellow")
- 
+
 # Final edition of simple plot
 ggplot(sputnik, aes(x = Period)) +
   geom_line(aes(y = Washington_Post, color = "Washington Post"), size = 2) + 
@@ -73,7 +76,7 @@ library("wordcloud")
 search()
 
 # build a corpus, which is a collection of text documents
-sputnik_corpus <- Corpus(DirSource("C:/Users/bkv/Documents/SputnikV/sputnik/"))
+sputnik_corpus <- Corpus(DirSource("C:/Users/prf/Documents/SputnikV/sputnik/"))
 
 # VectorSource specifies that the source is character vectors
 myCorpus <- Corpus(VectorSource(sputnik_corpus))
@@ -100,14 +103,29 @@ myCorpus <- tm_map(myCorpus, stripWhitespace)
 myCorpus <- tm_map(myCorpus, stemDocument)
 
 # Build a term-document matrix with function TermDocumentMatrix()
+# TOP-200 
+
 myDtm <- TermDocumentMatrix(myCorpus, control = list(minWordLength = 1))
 m <- as.matrix(myDtm)
 v <- sort(rowSums(m),decreasing=TRUE)
 d <- data.frame(word = names(v),freq=v)
-head(d, 100)
+head(d, 200)	
+
+# Replacespecial irrelevant words from the text with space
+myCorpus <- tm_map(myCorpus, toSpace, "***")
 
 # Generate the Word cloud with 'wordcloud'
+
 set.seed(1234)
 wordcloud(words = d$word, freq = d$freq, min.freq = 5,
           max.words=200, random.order=FALSE, rot.per=0.25, 
+          colors=brewer.pal(8, "Dark2"))
+
+set.seed(1234)
+wordcloud(words = d$word, freq = d$freq, min.freq = 5,
+          max.words=100, random.order=FALSE, rot.per=0.25, 
+          colors=brewer.pal(8, "Dark2"))
+
+wordcloud(words = d$word, freq = d$freq, min.freq = 5,
+          max.words=100, random.order=FALSE, rot.per=0.5, 
           colors=brewer.pal(8, "Dark2"))
